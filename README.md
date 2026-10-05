@@ -14,14 +14,21 @@ The project follows metal through unstable states: branching gold, folded liquid
 
 This archive starts with the exposed mechanics: gray geometry, blue diagnostic liquid, particles and intermediate renders. The finished images are the destination, not the whole story. Material comes from the supplied Fireborn process collection and its linked Houdini R&D folders, historically stored under `REEL01_Metamask`. Those shared folder names are retained in the [source manifest](docs/media-manifest.json).
 
-## Visual references in the supplied collection
+## Inspiration / molten metal and forging
 
-![Supplied foundry reference](media/images/reference-foundry-pour.jpg)
-![Supplied forging reference](media/images/reference-forging.jpg)
+![Molten metal pour reference](media/images/reference-foundry-pour.jpg)
 
-These supplied reference images place bright, hot material inside a dark working environment. They provide a useful visual comparison with the project’s incandescent interiors and narrow highlights. They are reference imagery, not Fireborn renders or documentation of a physical shoot. The pour filename names Dreamstime / Jatuporn79; attribution has not been independently verified.
+*Molten metal against a dark foundry: a reference for the bright liquid core, heavy flow and restrained surroundings. Source: supplied file `1_dreamstime__Jatuporn79_23619537.63bc5a38b94ca.avif`; the filename credits Dreamstime / Jatuporn79, image 23619537. The original listing and photographer credit have not been independently verified.*
 
-A [second supplied foundry reference](media/images/reference-foundry-concept.jpg) is labeled as AI-generated in its original filename. It is retained as a reference only.
+![Forging reference: glowing metal under a hammer](media/images/reference-forging.jpg)
+
+*Forging photograph: the orange-hot interior, black scale and rough outer surface inform the contrast between Fireborn’s luminous material and dark crust. Source: supplied file `7c4c3b2222d3bab97a16f58c42c5c9fb.jpg`. Original photographer and publication are unresolved.*
+
+![AI-generated foundry inspiration: glowing pour into a vessel](media/images/reference-foundry-concept.jpg)
+
+*Foundry concept reference: a bright stream meeting a heavy vessel, with sparks and reflected warmth. Source: Dreamstime watermark; supplied filename identifies image 272049859 and explicitly labels it AI-generated. This is an AI illustration, not a photograph of a real pour. Contributor and original listing remain unverified.*
+
+These are external inspiration images, separate from the project’s simulations and renders. [Reference sources and attribution status](docs/references.md).
 
 ## 01 / Establishing the scene
 
