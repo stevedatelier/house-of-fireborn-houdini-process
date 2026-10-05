@@ -1,8 +1,14 @@
 # House of Fireborn
 
-**Material transformation, erosion and light — a visual process archive by Maison d’Atelier.**
+**RBD charcoal breakup, material transformation and light — a visual process archive by Maison d’Atelier.**
 
-![Liquid, surface and smoke in Houdini](media/images/houdini-liquid-surface.png)
+## Featured process / RBD charcoal breakup
+
+[![Pot with breaking RBD charcoal — watch the full playblast](media/gif/charcoal-particle-playblast.gif)](media/video/charcoal-particle-playblast.mp4)
+
+**[▶ Watch the pot and breaking RBD charcoal — full playblast](media/video/charcoal-particle-playblast.mp4)**
+
+The charcoal-pot test exposes the rigid-body breakup inside the container, with irregular charcoal pieces and small particle activity visible before the final dark material treatment. This is the featured process study for Fireborn. The complete existing 93-frame AVI is preserved as a web video at 24 fps; its matching JPG sequence was not rebuilt.
 
 The project follows metal through unstable states: branching gold, folded liquid, a fractured incandescent surface and a skull emerging from smoke. The visual problem is to keep those changes legible under narrow lighting, with most of the frame falling into black.
 
@@ -19,11 +25,7 @@ A [second supplied foundry reference](media/images/reference-foundry-concept.jpg
 
 ## 01 / Establishing the scene
 
-![Charcoal particle playblast](media/gif/charcoal-particle-playblast.gif)
-
-The charcoal-pot playblast isolates the container, irregular fuel pieces and small particle activity before the final dark material treatment. The existing 93-frame AVI was reused; its matching JPG sequence was not rebuilt.
-
-[Watch the charcoal playblast](media/video/charcoal-particle-playblast.mp4)
+![Liquid, surface and smoke in Houdini](media/images/houdini-liquid-surface.png)
 
 ![Weathered metal disc study](media/images/weathered-metal-disc.png)
 ![Cone and blue flow in the viewport](media/images/cone-viewport-flow.png)
