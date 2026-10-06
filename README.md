@@ -76,6 +76,8 @@
 
 <sub>[Front melt v1](media/video/front-melt-v1.mp4) · [front melt v2](media/video/front-melt-v2.mp4) · [acid/front melt](media/video/acid-front-melt.mp4) · [macro melt](media/video/macro-melt.mp4) · [acid macro](media/video/acid-macro-melt.mp4)</sub>
 
+![Goldsmith skull and smoke — frame 1796](media/images/Crown_goldsmith_stills_00001796.webp)
+
 ## 03 / Camera distance and surface breakup
 
 ![Transformation close view](media/gif/transformation-hq-cam17.gif)

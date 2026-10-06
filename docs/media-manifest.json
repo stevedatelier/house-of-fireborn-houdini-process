@@ -4881,6 +4881,16 @@
       "duration_seconds": 10,
       "output_bytes": 3139529,
       "processing": "Five selected stills in requested order, 2 seconds each, 1600px wide, 256-color palette per frame; looping GIF; no interpolated frames; source files unchanged."
+    },
+    {
+      "repo": "fireborn",
+      "name": "Crown_goldsmith_stills_00001796",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\Fouse_of_Firebrn\\Crown_goldsmith_stills_00001796.png",
+      "output": "media/images/Crown_goldsmith_stills_00001796.webp",
+      "source_bytes": 34497707,
+      "output_bytes": 4855702,
+      "processing": "Lossless WebP; full source dimensions and pixels preserved; original source unchanged."
     }
   ]
 }

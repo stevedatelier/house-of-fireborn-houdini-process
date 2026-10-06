@@ -102,3 +102,5 @@ Exact source paths, processing details, full sequence order and checksums are re
 Image sizes and encoding decisions after optimization: [image optimization audit](image-optimization.json). Original source files are unchanged.
 
 - [Goldsmith still progression](../media/gif/goldsmith-still-progression.gif) — five selected stills (522, 553, 747, 810, 901), two seconds each; 1600px, 2.99 MiB.
+
+- [Goldsmith still — frame 1796](../media/images/Crown_goldsmith_stills_00001796.webp) — lossless WebP, 4.63 MiB.
