@@ -1,10 +1,10 @@
 # House of Fireborn
 
-**Houdini simulation and look development. Maison d’Atelier.**
+**Simulation and look development in Houdini SideFX. Maison d’Atelier.**
 
 ![Portfolio — fireborn material and lava](media/portfolio/fireborn-material-and-lava.webp)
 
-## RBD Simulation
+## RBD Simulation in Houdini
 
 [![Pot with breaking RBD charcoal — watch the full playblast](media/gif/charcoal-particle-playblast.gif)](media/video/charcoal-particle-playblast.mp4)
 
@@ -33,7 +33,7 @@ The charcoal breakup carries the opening. Weight comes first; the RBD timing nee
 
 <sub>Source: <a href="https://thumbs.dreamstime.com/b/br%C3%BBler-du-m%C3%A9tal-fondu-jaune-coulant-dans-une-grande-cuve-en-atelier-de-l-industrie-la-fonderie-cr%C3%A9%C3%A9-avec-ai-g%C3%A9n%C3%A9ratif-272049859.jpg" rel="nofollow">Dreamstime</a>, image 272049859. AI-generated illustration; contributor unverified.</sub>
 
-## 01 / Fluid Simulation
+## 01 / Fluid Simulation in Houdini
 
 The metal needs to feel heavy and almost reluctant to move. Viscosity is the main question here: how far can the motion stretch before it loses that weight?
 
@@ -78,7 +78,7 @@ Getting close makes the transformation feel physical. The frame needs enough roo
 
 <a href="media/video/erosion-psp0025.mp4">Base fragment</a> · <a href="media/video/erosion-scale-07x10.mp4">erosion-scale fragment</a>
 
-## 04 / Particle and Smoke Simulation
+## 04 / Particle and Smoke Simulation in Houdini
 
 ![Particle pass v4](media/gif/dust-particles-v4.gif)
 
