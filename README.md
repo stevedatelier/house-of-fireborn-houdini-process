@@ -10,6 +10,12 @@
 
 The charcoal-pot test exposes the rigid-body breakup inside the container, with irregular charcoal pieces and small particle activity visible before the final dark material treatment. This is the featured process study for Fireborn. The complete existing 93-frame AVI is preserved as a web video at 24 fps; its matching JPG sequence was not rebuilt.
 
+<table>
+<tr><td width="50%"><img src="media/images/charcoal-pot-surface-study.png" width="100%" alt="Charcoal pot surface study — Screenshot 2024-09-24 232632"></td><td width="50%"><img src="media/images/charcoal-pot-render.png" width="100%" alt="Charcoal pot render — Screenshot 2024-09-28 014609"></td></tr>
+</table>
+
+![Charcoal fragment study — Screenshot 2024-09-25 050755](media/images/charcoal-fragment-study.png)
+
 The project follows metal through unstable states: branching gold, folded liquid, a fractured incandescent surface and a skull emerging from smoke. The visual problem is to keep those changes legible under narrow lighting, with most of the frame falling into black.
 
 ![Final lava result](media/gif/final-lava-front.gif)
@@ -108,6 +114,13 @@ The `SC090 / SH010` renders retain the red interior, broken dark shell and surro
 <tr><td width="50%"><img src="media/images/final-gold-branch.webp" width="100%" alt="Final gold branch"></td><td width="50%"><img src="media/gif/final-liquid-gold.gif" width="100%" alt="Final liquid gold"></td></tr>
 <tr><td width="50%"><img src="media/gif/final-lava-front.gif" width="100%" alt="Final lava"></td><td width="50%"><img src="media/images/final-gold-skull.webp" width="100%" alt="Gold skull and smoke"></td></tr>
 </table>
+
+<table>
+<tr><td width="50%"><img src="media/gif/goldsmith-closeup-flower-v03.gif" width="100%" alt="Crown Goldsmith Closeup Flower Clip V03"></td><td width="50%"><img src="media/gif/goldsmith-infection-mask-v06.gif" width="100%" alt="Crown Goldsmith Infectionk Mask Clip V06"></td></tr>
+<tr><td>Goldsmith flower closeup — V03</td><td>Goldsmith mask — V06</td></tr>
+</table>
+
+![Sc050 Sh010 — material closeup](media/gif/sc050-sh010.gif)
 
 The final treatment uses reflections to describe the gold’s edges, then reverses that relationship in the lava: orange light comes from within a broken black crust. The geometry and diagnostic colors disappear into material, light and framing.
 

@@ -4796,6 +4796,72 @@
       "duration_seconds": 3.5,
       "output_bytes": 5657873,
       "processing": "Full-duration 640px 128-color GIF; 12 fps samples preserve original playback speed. PB_cam6 uses the previously verified numeric frames 39\u2013121 at 24 fps."
+    },
+    {
+      "repo": "fireborn",
+      "name": "charcoal-pot-surface-study",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\Screenshot 2024-09-24 232632.png",
+      "output": "media/images/charcoal-pot-surface-study.png",
+      "source_bytes": 352909,
+      "output_bytes": 352909,
+      "processing": "Copied unchanged"
+    },
+    {
+      "repo": "fireborn",
+      "name": "charcoal-pot-render",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\Screenshot 2024-09-28 014609.png",
+      "output": "media/images/charcoal-pot-render.png",
+      "source_bytes": 304962,
+      "output_bytes": 304962,
+      "processing": "Copied unchanged"
+    },
+    {
+      "repo": "fireborn",
+      "name": "charcoal-fragment-study",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\Screenshot 2024-09-25 050755.png",
+      "output": "media/images/charcoal-fragment-study.png",
+      "source_bytes": 256498,
+      "output_bytes": 256498,
+      "processing": "Copied unchanged"
+    },
+    {
+      "repo": "house-of-fireborn-process",
+      "name": "goldsmith-closeup-flower-v03",
+      "kind": "gif-preview",
+      "source": "C:\\Users\\StableDiff\\Videos\\Crown Goldsmith Closeup Flower Clip V03.mp4",
+      "output": "media/gif/goldsmith-closeup-flower-v03.gif",
+      "fps": 12.5,
+      "width": 640,
+      "duration_seconds": 7.2,
+      "output_bytes": 1160862,
+      "processing": "Full original duration at natural speed; original 25 fps sampled at 12.5 fps, 640px, 128 colors; source untouched"
+    },
+    {
+      "repo": "house-of-fireborn-process",
+      "name": "goldsmith-infection-mask-v06",
+      "kind": "gif-preview",
+      "source": "C:\\Users\\StableDiff\\Videos\\Crown Goldsmith Infectionk Mask Clip V06.mp4",
+      "output": "media/gif/goldsmith-infection-mask-v06.gif",
+      "fps": 12.5,
+      "width": 640,
+      "duration_seconds": 3.84,
+      "output_bytes": 2802332,
+      "processing": "Full original duration at natural speed; original 25 fps sampled at 12.5 fps, 640px, 128 colors; source untouched"
+    },
+    {
+      "repo": "house-of-fireborn-process",
+      "name": "sc050-sh010",
+      "kind": "gif-preview",
+      "source": "C:\\Users\\StableDiff\\Videos\\Sc050 Sh010.mp4",
+      "output": "media/gif/sc050-sh010.gif",
+      "fps": 12.5,
+      "width": 640,
+      "duration_seconds": 4.88,
+      "output_bytes": 6754902,
+      "processing": "Full original duration at natural speed; original 25 fps sampled at 12.5 fps, 640px, 128 colors; source untouched"
     }
   ]
 }

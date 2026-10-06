@@ -91,3 +91,10 @@ Exact source paths, processing details, full sequence order and checksums are re
 - [front-melt-v2 â€” GIF](../media/gif/front-melt-v2.gif)
 - [viscous-mask â€” GIF](../media/gif/viscous-mask.gif)
 - [transformation-cam6 â€” GIF](../media/gif/transformation-cam6.gif)
+
+- [charcoal-pot-surface-study](../media/images/charcoal-pot-surface-study.png)
+- [charcoal-pot-render](../media/images/charcoal-pot-render.png)
+- [charcoal-fragment-study](../media/images/charcoal-fragment-study.png)
+- [goldsmith-closeup-flower-v03](../media/gif/goldsmith-closeup-flower-v03.gif)
+- [goldsmith-infection-mask-v06](../media/gif/goldsmith-infection-mask-v06.gif)
+- [sc050-sh010](../media/gif/sc050-sh010.gif)
