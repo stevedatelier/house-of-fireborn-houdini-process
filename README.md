@@ -10,7 +10,7 @@
 
 **[▶ Watch the pot and breaking RBD charcoal — full playblast](media/video/charcoal-particle-playblast.mp4)**
 
-RBD breakup tests for the charcoal pot. The timing matters here: the pieces need weight, even when the shot is short.
+The charcoal breakup carries the opening. Weight comes first; the RBD timing needs to sell the impact before the smaller fragments take over.
 
 <table>
 <tr><td width="50%"><img src="media/images/charcoal-pot-surface-study.webp" width="100%" alt="Charcoal pot surface study — Screenshot 2024-09-24 232632"></td><td width="50%"><img src="media/images/charcoal-pot-render.webp" width="100%" alt="Charcoal pot render — Screenshot 2024-09-28 014609"></td></tr>
@@ -35,7 +35,7 @@ RBD breakup tests for the charcoal pot. The timing matters here: the pieces need
 
 ## 01 / Fluid Simulation
 
-Viscosity tests for the metal transformation. A little drag gives the motion a heavier, more satisfying feel.
+The metal needs to feel heavy and almost reluctant to move. Viscosity is the main question here: how far can the motion stretch before it loses that weight?
 
 ![Liquid, surface and smoke in Houdini](media/images/houdini-liquid-surface.webp)
 
@@ -62,7 +62,7 @@ Viscosity tests for the metal transformation. A little drag gives the motion a h
 
 ![Macro melt](media/gif/macro-melt.gif)
 
-The erosion and liquid passes are tested separately before judging the combined motion. Close-ups are unforgiving, so the breakup needs to hold up at that scale.
+Erosion sets the pace of the reveal. The liquid and breakup passes need to agree on that timing, especially in the macro shots.
 
 <a href="media/video/front-melt-v1.mp4">Front melt v1</a> · <a href="media/video/front-melt-v2.mp4">front melt v2</a> · <a href="media/video/acid-front-melt.mp4">acid/front melt</a> · <a href="media/video/macro-melt.mp4">macro melt</a> · <a href="media/video/acid-macro-melt.mp4">acid macro</a>
 
@@ -72,7 +72,7 @@ The erosion and liquid passes are tested separately before judging the combined 
 
 ![Transformation close view](media/gif/transformation-hq-cam17.gif)
 
-Camera tests for the transformation. The close view is where the small folds and surface detail really earn their place.
+Getting close makes the transformation feel physical. The frame needs enough room for the motion, but not so much that the tension disappears.
 
 <a href="media/video/transformation-cam6.mp4">Camera 6 review</a> · <a href="media/video/transformation-hq-cam17.mp4">HQ camera 17 review</a>
 
@@ -82,13 +82,13 @@ Camera tests for the transformation. The close view is where the small folds and
 
 ![Particle pass v4](media/gif/dust-particles-v4.gif)
 
-Five particle passes to compare timing and density. Too much activity competes with the main transformation.
+Particles should follow the action. Across these five passes, timing and density are the things to judge: the eye should stay on the transformation.
 
 <a href="media/video/dust-particles-v1.mp4">v1</a> · <a href="media/video/dust-particles-v2.mp4">v2</a> · <a href="media/video/dust-particles-v3.mp4">v3</a> · <a href="media/video/dust-particles-v4.mp4">v4</a> · <a href="media/video/dust-particles-v5.mp4">v5</a>
 
 ![Smoke in the Houdini render view](media/images/houdini-smoke-render.webp)
 
-Smoke tests in Houdini. The quieter moments around the skull are some of the strongest shots.
+The smoke gives the skull a slower beat. There is more tension when the face stays partly hidden.
 
 <a href="media/video/acid-smoke-test.mp4">Smoke test</a>
 
@@ -96,7 +96,7 @@ Smoke tests in Houdini. The quieter moments around the skull are some of the str
 
 ![Intermediate lava camera 2](media/gif/lava-render-cam2.gif)
 
-Render tests for the charcoal scene, comparing the internal glow with the dark outer material.
+The heat needs somewhere dark to sit. The charcoal look depends on that contrast, without letting the glow flatten the surface.
 
 <a href="media/video/lava-render-cam2.mp4">Camera 2 — complete available batch</a> · <a href="media/video/lava-render-cam1-fragment.mp4">camera 1 — 16-frame fragment</a>
 
@@ -114,13 +114,13 @@ Render tests for the charcoal scene, comparing the internal glow with the dark o
 
 ![Sc050 Sh010 — material closeup](media/gif/sc050-sh010.gif)
 
-The gold works best when the highlights have room to fall away. That restraint gives the shots their mood.
+The appeal of the gold is in the falloff: a bright edge, then deep shadow. Lighting every surface would take away the intimacy of these shots.
 
 <a href="media/video/final-gold-skull.mp4">Gold skull film</a> · <a href="media/video/final-liquid-gold.mp4">liquid gold</a> · <a href="media/video/final-lava-front.mp4">lava front</a> · <a href="media/video/final-lava-profile.mp4">lava profile</a>
 
 ## 07 / Color Correction
 
-Final grading in DaVinci Resolve, including HDR adjustments and Film Look Creator tests.
+The grade brings the gold and charcoal into the same film. These Resolve passes include HDR adjustments and Film Look Creator tests, with attention on the highlights and depth of the blacks.
 
 ![DaVinci Resolve charcoal-pot edit](media/images/resolve-edit-2026-08-04.webp)
 
