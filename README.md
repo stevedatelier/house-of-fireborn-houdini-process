@@ -128,10 +128,13 @@ The final treatment uses reflections to describe the gold’s edges, then revers
 
 <a href="media/video/final-gold-skull.mp4">Gold skull film</a> · <a href="media/video/final-liquid-gold.mp4">liquid gold</a> · <a href="media/video/final-lava-front.mp4">lava front</a> · <a href="media/video/final-lava-profile.mp4">lava profile</a>
 
-<table>
-<tr><td width="50%"><img src="media/images/resolve-edit-2026-08-04.webp" width="100%" alt="DaVinci Resolve charcoal-pot edit"></td><td width="50%"><img src="media/images/resolve-grade-2026-08-18.webp" width="100%" alt="DaVinci Resolve skull color grade"></td></tr>
-<tr><td width="50%"><img src="media/images/resolve-look-2026-07-31.webp" width="100%" alt="DaVinci Resolve gold material look development"></td><td width="50%"></td></tr>
-</table>
+## 07 / Color Correction
+
+![DaVinci Resolve charcoal-pot edit](media/images/resolve-edit-2026-08-04.webp)
+
+![DaVinci Resolve skull color grade](media/images/resolve-grade-2026-08-18.webp)
+
+![DaVinci Resolve gold material look development](media/images/resolve-look-2026-07-31.webp)
 
 ## Archive notes
 
