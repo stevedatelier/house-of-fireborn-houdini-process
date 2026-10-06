@@ -47,9 +47,7 @@
 
 ![Houdini transformation geometry — Screenshot 2024-12-07 235036](media/images/houdini-transformation-2024-12-07.webp)
 
-![Goldsmith still progression — frames 522, 553, 747, 810 and 901](media/gif/goldsmith-still-progression.gif)
-
-<sub>Selected goldsmith stills in order: 522 → 553 → 747 → 810 → 901. Each holds for two seconds.</sub>
+![Goldsmith still progression](media/gif/goldsmith-still-progression.gif)
 
 <sub>[Triangle test: viscosity 0–1](media/video/triangle-viscosity-0-1.mp4) · [viscosity 1](media/video/triangle-viscosity-1.mp4) · [viscosity 2](media/video/triangle-viscosity-2.mp4) · [finer test](media/video/triangle-viscosity-2-finer-test.mp4)</sub>
 
