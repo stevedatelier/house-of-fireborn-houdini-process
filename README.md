@@ -1,26 +1,22 @@
 # House of Fireborn
 
-**RBD charcoal breakup, material transformation and light — a visual process archive by Maison d’Atelier.**
+**Houdini simulation and look development. Maison d’Atelier.**
 
 ![Portfolio — fireborn material and lava](media/portfolio/fireborn-material-and-lava.webp)
 
-## Featured process / RBD charcoal breakup
+## RBD Simulation
 
 [![Pot with breaking RBD charcoal — watch the full playblast](media/gif/charcoal-particle-playblast.gif)](media/video/charcoal-particle-playblast.mp4)
 
 **[▶ Watch the pot and breaking RBD charcoal — full playblast](media/video/charcoal-particle-playblast.mp4)**
 
-The charcoal-pot test exposes the rigid-body breakup inside the container, with irregular charcoal pieces and small particle activity visible before the final dark material treatment. This is the featured process study for Fireborn. The complete existing 93-frame AVI is preserved as a web video at 24 fps; its matching JPG sequence was not rebuilt.
+RBD breakup tests for the charcoal pot. The timing matters here: the pieces need weight, even when the shot is short.
 
 <table>
 <tr><td width="50%"><img src="media/images/charcoal-pot-surface-study.webp" width="100%" alt="Charcoal pot surface study — Screenshot 2024-09-24 232632"></td><td width="50%"><img src="media/images/charcoal-pot-render.webp" width="100%" alt="Charcoal pot render — Screenshot 2024-09-28 014609"></td></tr>
 </table>
 
-
-
-This archive starts with the exposed mechanics: gray geometry, blue diagnostic liquid, particles and intermediate renders. The finished images are the destination, not the whole story. Material comes from the supplied Fireborn process collection and its linked Houdini R&amp;D folders, historically stored under `REEL01_Metamask`. Those shared folder names are retained in the <a href="docs/media-manifest.json">source manifest</a>.
-
-## Inspiration / molten metal and forging
+## References
 
 <table>
 <tr>
@@ -28,20 +24,18 @@ This archive starts with the exposed mechanics: gray geometry, blue diagnostic l
 <td width="50%"><img src="media/images/reference-forging.jpg" width="100%" alt="Forging reference: glowing metal under a hammer"></td>
 </tr>
 <tr>
-<td valign="top"><sub>Molten-metal pour: bright liquid against a dark foundry. Photograph: <a href="https://www.machinedesign.com/materials/article/21832007/cast-iron-and-wrought-iron-whats-the-difference" rel="nofollow">Jatuporn79 / Dreamstime, reproduced by Machine Design</a>.</sub></td>
-<td valign="top"><sub>Forging: orange-hot metal, black scale and a rough surface. Retrieved via <a href="https://i.pinimg.com/564x/7c/4c/3b/7c4c3b2222d3bab97a16f58c42c5c9fb.jpg" rel="nofollow">Pinterest</a>; original photographer and publication unverified.</sub></td>
+<td valign="top"><sub>Photograph: <a href="https://www.machinedesign.com/materials/article/21832007/cast-iron-and-wrought-iron-whats-the-difference" rel="nofollow">Jatuporn79 / Dreamstime, reproduced by Machine Design</a>.</sub></td>
+<td valign="top"><sub>Forging reference via <a href="https://i.pinimg.com/564x/7c/4c/3b/7c4c3b2222d3bab97a16f58c42c5c9fb.jpg" rel="nofollow">Pinterest</a>; original photographer and publication unverified.</sub></td>
 </tr>
 </table>
 
 ![AI-generated foundry inspiration: glowing pour into a vessel](media/images/reference-foundry-concept.jpg)
 
-<sub>Foundry concept: glowing metal poured into a heavy vessel. Source: <a href="https://thumbs.dreamstime.com/b/br%C3%BBler-du-m%C3%A9tal-fondu-jaune-coulant-dans-une-grande-cuve-en-atelier-de-l-industrie-la-fonderie-cr%C3%A9%C3%A9-avec-ai-g%C3%A9n%C3%A9ratif-272049859.jpg" rel="nofollow">Dreamstime</a>, image 272049859. AI-generated illustration; contributor unverified.</sub>
+<sub>Source: <a href="https://thumbs.dreamstime.com/b/br%C3%BBler-du-m%C3%A9tal-fondu-jaune-coulant-dans-une-grande-cuve-en-atelier-de-l-industrie-la-fonderie-cr%C3%A9%C3%A9-avec-ai-g%C3%A9n%C3%A9ratif-272049859.jpg" rel="nofollow">Dreamstime</a>, image 272049859. AI-generated illustration; contributor unverified.</sub>
 
-These are external inspiration images, separate from the project’s simulations and renders. <a href="docs/references.md">Reference sources and attribution status</a>.
+## 01 / Fluid Simulation
 
-## 01 / Establishing the scene
-
-The project follows metal through unstable states: branching gold, folded liquid, a fractured incandescent surface and a skull emerging from smoke. The visual problem is to keep those changes legible under narrow lighting, with most of the frame falling into black.
+Viscosity tests for the metal transformation. A little drag gives the motion a heavier, more satisfying feel.
 
 ![Liquid, surface and smoke in Houdini](media/images/houdini-liquid-surface.webp)
 
@@ -49,11 +43,9 @@ The project follows metal through unstable states: branching gold, folded liquid
 
 ![Goldsmith still progression](media/gif/goldsmith-still-progression.gif)
 
-<a href="media/video/triangle-viscosity-0-1.mp4">Triangle test: viscosity 0–1</a> · <a href="media/video/triangle-viscosity-1.mp4">viscosity 1</a> · <a href="media/video/triangle-viscosity-2.mp4">viscosity 2</a> · <a href="media/video/triangle-viscosity-2-finer-test.mp4">finer test</a>
+<a href="media/video/triangle-viscosity-0-1.mp4">Triangle test: viscosity 0-1</a> · <a href="media/video/triangle-viscosity-1.mp4">viscosity 1</a> · <a href="media/video/triangle-viscosity-2.mp4">viscosity 2</a> · <a href="media/video/triangle-viscosity-2-finer-test.mp4">finer test</a>
 
-These names come from the source files. The clips show different droplet and trailing shapes; they do not establish that one parameter alone caused every difference.
-
-## 02 / Separating liquid from eroding geometry
+## 02 / Erosion Tests
 
 ![PB_cam6 transformation playblast — full sequence at natural speed](media/gif/transformation-cam6.gif)
 
@@ -70,47 +62,45 @@ These names come from the source files. The clips show different droplet and tra
 
 ![Macro melt](media/gif/macro-melt.gif)
 
-The melt tests shift from a readable face to folds and softened features. The macro view makes the surface breakup visible; the frontal versions let the same problem be judged at portrait scale. These are retained as alternatives, not labeled as a proven sequence of fixes.
+The erosion and liquid passes are tested separately before judging the combined motion. Close-ups are unforgiving, so the breakup needs to hold up at that scale.
 
 <a href="media/video/front-melt-v1.mp4">Front melt v1</a> · <a href="media/video/front-melt-v2.mp4">front melt v2</a> · <a href="media/video/acid-front-melt.mp4">acid/front melt</a> · <a href="media/video/macro-melt.mp4">macro melt</a> · <a href="media/video/acid-macro-melt.mp4">acid macro</a>
 
 ![Goldsmith skull and smoke — frame 1796](media/images/Crown_goldsmith_stills_00001796.webp)
 
-## 03 / Camera distance and surface breakup
+## 03 / Camera Tests
 
 ![Transformation close view](media/gif/transformation-hq-cam17.gif)
 
-The two numbered playblast sequences inspect the changing surface at different distances. `PB_cam6` contains frames 39–121; `PB_HQ_cam17` contains 39–500, despite the latter files retaining a `PB_cam6_HQ` prefix. Both are preserved at their full available length.
+Camera tests for the transformation. The close view is where the small folds and surface detail really earn their place.
 
 <a href="media/video/transformation-cam6.mp4">Camera 6 review</a> · <a href="media/video/transformation-hq-cam17.mp4">HQ camera 17 review</a>
 
-The small `psp0025` and `psp0025_erosionscale07x10` batches are only 11 frames each. They are useful as short surface comparisons, not complete simulations.
-
 <a href="media/video/erosion-psp0025.mp4">Base fragment</a> · <a href="media/video/erosion-scale-07x10.mp4">erosion-scale fragment</a>
 
-## 04 / Particles and smoke
+## 04 / Particle and Smoke Simulation
 
 ![Particle pass v4](media/gif/dust-particles-v4.gif)
 
-Five dust passes retain the underlying surface while changing the visible particle trace. The red/orange points are easiest to inspect along the upper silhouette. Keeping all five short versions exposes the range of tests without filling the repository with hundreds of almost identical stills.
+Five particle passes to compare timing and density. Too much activity competes with the main transformation.
 
 <a href="media/video/dust-particles-v1.mp4">v1</a> · <a href="media/video/dust-particles-v2.mp4">v2</a> · <a href="media/video/dust-particles-v3.mp4">v3</a> · <a href="media/video/dust-particles-v4.mp4">v4</a> · <a href="media/video/dust-particles-v5.mp4">v5</a>
 
 ![Smoke in the Houdini render view](media/images/houdini-smoke-render.webp)
 
-The smoke capture puts the volume in front of the render controls. A separate short gray-geometry test shows smoke at the head’s upper edge. It is a useful visibility check before the dense, dark final composition.
+Smoke tests in Houdini. The quieter moments around the skull are some of the strongest shots.
 
 <a href="media/video/acid-smoke-test.mp4">Smoke test</a>
 
-## 05 / Burning charcoal renders
+## 05 / Charcoal Look Development
 
 ![Intermediate lava camera 2](media/gif/lava-render-cam2.gif)
 
-The `SC090 / SH010` renders retain the red interior, broken dark shell and surrounding scene. They are intermediate evidence: darker and less isolated than the final lava views. The complete camera-2 batch has 96 frames; the alternate camera-1 batch stops at frame 16.
+Render tests for the charcoal scene, comparing the internal glow with the dark outer material.
 
 <a href="media/video/lava-render-cam2.mp4">Camera 2 — complete available batch</a> · <a href="media/video/lava-render-cam1-fragment.mp4">camera 1 — 16-frame fragment</a>
 
-## 06 / Final material and lighting
+## 06 / Shading and Lighting
 
 <table>
 <tr><td width="50%"><img src="media/images/Crown_goldsmith_stills_00000522.webp" width="100%" alt="Goldsmith flower still — frame 522"></td><td width="50%"><img src="media/gif/final-liquid-gold.gif" width="100%" alt="Final liquid gold"></td></tr>
@@ -124,11 +114,13 @@ The `SC090 / SH010` renders retain the red interior, broken dark shell and surro
 
 ![Sc050 Sh010 — material closeup](media/gif/sc050-sh010.gif)
 
-The final treatment uses reflections to describe the gold’s edges, then reverses that relationship in the lava: orange light comes from within a broken black crust. The geometry and diagnostic colors disappear into material, light and framing.
+The gold works best when the highlights have room to fall away. That restraint gives the shots their mood.
 
 <a href="media/video/final-gold-skull.mp4">Gold skull film</a> · <a href="media/video/final-liquid-gold.mp4">liquid gold</a> · <a href="media/video/final-lava-front.mp4">lava front</a> · <a href="media/video/final-lava-profile.mp4">lava profile</a>
 
 ## 07 / Color Correction
+
+Final grading in DaVinci Resolve, including HDR adjustments and Film Look Creator tests.
 
 ![DaVinci Resolve charcoal-pot edit](media/images/resolve-edit-2026-08-04.webp)
 
@@ -136,16 +128,11 @@ The final treatment uses reflections to describe the gold’s edges, then revers
 
 ![DaVinci Resolve gold material look development](media/images/resolve-look-2026-07-31.webp)
 
-## Archive notes
+## Files
 
-- [All media, sizes and provenance](docs/media-index.md)
-- [Sequence decisions and audit boundaries](docs/audit-notes.md)
-- Original movies retain their source frame rates. New sequence reviews use 24 fps, inferred from adjacent playblasts; this is a review assumption, not recovered scene metadata.
-- GIFs are short, lower-resolution previews. Linked MP4s contain the complete selected clips.
-- The archive documents visible results and source naming. Solver settings, causal explanations and a strict production chronology are not inferred from filenames alone. No scene files were modified or included.
+[Media](docs/media-index.md) · [Source notes](docs/media-manifest.json) · [Archive details](docs/audit-notes.md)
 
 ---
 
 ![Portfolio — fireborn cover](media/portfolio/fireborn-cover.webp)
-
 
