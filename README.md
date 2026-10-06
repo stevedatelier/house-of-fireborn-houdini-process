@@ -96,7 +96,7 @@ The smoke capture puts the volume in front of the render controls. A separate sh
 
 [Smoke test](media/video/acid-smoke-test.mp4)
 
-## 05 / Intermediate lava renders
+## 05 / Burning charcoal renders
 
 ![Intermediate lava camera 2](media/gif/lava-render-cam2.gif)
 
