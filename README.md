@@ -55,8 +55,6 @@ These names come from the source files. The clips show different droplet and tra
 
 ![Liquid and erosion diagnostic](media/gif/liquid-and-erosion.gif)
 
-Blue liquid over pale geometry makes the contact region readable. The companion erosion views remove that color separation and expose the changing skin. Front, top and back views matter because a plausible front silhouette can hide accumulation or loss of detail elsewhere.
-
 [Liquid + geometry](media/video/liquid-and-erosion.mp4) · [erosion front](media/video/acid-erosion-front.mp4) · [top](media/video/acid-erosion-top.mp4) · [side](media/video/erosion-side-view.mp4) · [back contact](media/video/liquid-erosion-back.mp4)
 
 <table>
