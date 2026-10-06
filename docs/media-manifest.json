@@ -4862,6 +4862,25 @@
       "duration_seconds": 4.88,
       "output_bytes": 6754902,
       "processing": "Full original duration at natural speed; original 25 fps sampled at 12.5 fps, 640px, 128 colors; source untouched"
+    },
+    {
+      "repo": "house-of-fireborn-process",
+      "name": "goldsmith-still-progression",
+      "kind": "gif-still-progression",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\Fouse_of_Firebrn",
+      "source_files": [
+        "Crown_goldsmith_stills_00000522.png",
+        "Crown_goldsmith_stills_00000553.png",
+        "Crown_goldsmith_stills_00000747.png",
+        "Crown_goldsmith_stills_00000810.png",
+        "Crown_goldsmith_stills_00000901.png"
+      ],
+      "output": "media/gif/goldsmith-still-progression.gif",
+      "fps": 0.5,
+      "width": 1600,
+      "duration_seconds": 10,
+      "output_bytes": 3139529,
+      "processing": "Five selected stills in requested order, 2 seconds each, 1600px wide, 256-color palette per frame; looping GIF; no interpolated frames; source files unchanged."
     }
   ]
 }

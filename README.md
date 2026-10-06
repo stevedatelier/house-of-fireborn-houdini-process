@@ -47,6 +47,10 @@
 
 ![Houdini transformation geometry — Screenshot 2024-12-07 235036](media/images/houdini-transformation-2024-12-07.webp)
 
+![Goldsmith still progression — frames 522, 553, 747, 810 and 901](media/gif/goldsmith-still-progression.gif)
+
+<sub>Selected goldsmith stills in order: 522 → 553 → 747 → 810 → 901. Each holds for two seconds.</sub>
+
 <sub>[Triangle test: viscosity 0–1](media/video/triangle-viscosity-0-1.mp4) · [viscosity 1](media/video/triangle-viscosity-1.mp4) · [viscosity 2](media/video/triangle-viscosity-2.mp4) · [finer test](media/video/triangle-viscosity-2-finer-test.mp4)</sub>
 
 <sub>These names come from the source files. The clips show different droplet and trailing shapes; they do not establish that one parameter alone caused every difference.</sub>

@@ -100,3 +100,5 @@ Exact source paths, processing details, full sequence order and checksums are re
 - [sc050-sh010](../media/gif/sc050-sh010.gif)
 
 Image sizes and encoding decisions after optimization: [image optimization audit](image-optimization.json). Original source files are unchanged.
+
+- [Goldsmith still progression](../media/gif/goldsmith-still-progression.gif) — five selected stills (522, 553, 747, 810, 901), two seconds each; 1600px, 2.99 MiB.
