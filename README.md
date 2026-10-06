@@ -14,9 +14,7 @@ The charcoal-pot test exposes the rigid-body breakup inside the container, with 
 <tr><td width="50%"><img src="media/images/charcoal-pot-surface-study.webp" width="100%" alt="Charcoal pot surface study — Screenshot 2024-09-24 232632"></td><td width="50%"><img src="media/images/charcoal-pot-render.webp" width="100%" alt="Charcoal pot render — Screenshot 2024-09-28 014609"></td></tr>
 </table>
 
-The project follows metal through unstable states: branching gold, folded liquid, a fractured incandescent surface and a skull emerging from smoke. The visual problem is to keep those changes legible under narrow lighting, with most of the frame falling into black.
 
-![Final lava result](media/gif/final-lava-front.gif)
 
 This archive starts with the exposed mechanics: gray geometry, blue diagnostic liquid, particles and intermediate renders. The finished images are the destination, not the whole story. Material comes from the supplied Fireborn process collection and its linked Houdini R&D folders, historically stored under `REEL01_Metamask`. Those shared folder names are retained in the [source manifest](docs/media-manifest.json).
 
@@ -40,6 +38,10 @@ This archive starts with the exposed mechanics: gray geometry, blue diagnostic l
 These are external inspiration images, separate from the project’s simulations and renders. [Reference sources and attribution status](docs/references.md).
 
 ## 01 / Establishing the scene
+
+The project follows metal through unstable states: branching gold, folded liquid, a fractured incandescent surface and a skull emerging from smoke. The visual problem is to keep those changes legible under narrow lighting, with most of the frame falling into black.
+
+![Final lava result](media/gif/final-lava-front.gif)
 
 ![Liquid, surface and smoke in Houdini](media/images/houdini-liquid-surface.webp)
 
