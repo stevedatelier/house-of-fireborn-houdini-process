@@ -41,8 +41,6 @@ These are external inspiration images, separate from the project’s simulations
 
 The project follows metal through unstable states: branching gold, folded liquid, a fractured incandescent surface and a skull emerging from smoke. The visual problem is to keep those changes legible under narrow lighting, with most of the frame falling into black.
 
-![Final lava result](media/gif/final-lava-front.gif)
-
 ![Liquid, surface and smoke in Houdini](media/images/houdini-liquid-surface.webp)
 
 ![Houdini transformation geometry — Screenshot 2024-12-07 235036](media/images/houdini-transformation-2024-12-07.webp)
