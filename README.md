@@ -2,6 +2,8 @@
 
 **RBD charcoal breakup, material transformation and light — a visual process archive by Maison d’Atelier.**
 
+![Portfolio — fireborn material and lava](media/portfolio/fireborn-material-and-lava.webp)
+
 ## Featured process / RBD charcoal breakup
 
 [![Pot with breaking RBD charcoal — watch the full playblast](media/gif/charcoal-particle-playblast.gif)](media/video/charcoal-particle-playblast.mp4)
@@ -134,4 +136,4 @@ The final treatment uses reflections to describe the gold’s edges, then revers
 
 ![Portfolio — fireborn cover](media/portfolio/fireborn-cover.webp)
 
-![Portfolio — fireborn material and lava](media/portfolio/fireborn-material-and-lava.webp)
+
