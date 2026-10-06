@@ -26,28 +26,6 @@
     },
     {
       "repo": "fireborn",
-      "name": "cone-viewport-flow",
-      "kind": "image",
-      "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\final_process_House-of_fireborn\\Screenshot 2024-11-25 172537.png",
-      "output": "media/images/cone-viewport-flow.png",
-      "processing": "copied unchanged",
-      "source_bytes": 1958040,
-      "output_bytes": 1958040,
-      "sha256": "f0a4e06870e1c3e3bdc14ab7ab41aa0b008c8b8f78c53d077a11ba46e6cfc1ab"
-    },
-    {
-      "repo": "fireborn",
-      "name": "lava-intermediate-still",
-      "kind": "image",
-      "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\final_process_House-of_fireborn\\Screenshot 2024-11-26 144433.png",
-      "output": "media/images/lava-intermediate-still.png",
-      "processing": "copied unchanged",
-      "source_bytes": 337089,
-      "output_bytes": 337089,
-      "sha256": "eeed265a9f3ab4616fa0eed5f3dc61e51f276e64c516d7e5334e218142af3570"
-    },
-    {
-      "repo": "fireborn",
       "name": "houdini-liquid-surface",
       "kind": "image",
       "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\final_process_House-of_fireborn\\Screenshot 2026-06-05 123443.png",
@@ -4757,16 +4735,6 @@
       "output": "media/images/houdini-transformation-2024-12-07.png",
       "source_bytes": 2506716,
       "output_bytes": 2506716,
-      "processing": "Copied unchanged"
-    },
-    {
-      "repo": "fireborn",
-      "name": "houdini-erosion-network-2026-04-18",
-      "kind": "image",
-      "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\houdini screenshots\\Screenshot 2026-04-18 184400.png",
-      "output": "media/images/houdini-erosion-network-2026-04-18.png",
-      "source_bytes": 6813946,
-      "output_bytes": 6813946,
       "processing": "Copied unchanged"
     },
     {

@@ -41,17 +41,13 @@ These are external inspiration images, separate from the project’s simulations
 
 ![Houdini transformation geometry — Screenshot 2024-12-07 235036](media/images/houdini-transformation-2024-12-07.png)
 
-![Cone and blue flow in the viewport](media/images/cone-viewport-flow.png)
-
-The viewport view exposes the blue stream against the cone.
-
 [Triangle test: viscosity 0–1](media/video/triangle-viscosity-0-1.mp4) · [viscosity 1](media/video/triangle-viscosity-1.mp4) · [viscosity 2](media/video/triangle-viscosity-2.mp4) · [finer test](media/video/triangle-viscosity-2-finer-test.mp4)
 
 These names come from the source files. The clips show different droplet and trailing shapes; they do not establish that one parameter alone caused every difference.
 
 ## 02 / Separating liquid from eroding geometry
 
-![Houdini erosion viewport and network — Screenshot 2026-04-18 184400](media/images/houdini-erosion-network-2026-04-18.png)
+![PB_cam6 transformation playblast — full sequence at natural speed](media/gif/transformation-cam6.gif)
 
 ![Liquid and erosion diagnostic](media/gif/liquid-and-erosion.gif)
 
@@ -73,8 +69,6 @@ The melt tests shift from a readable face to folds and softened features. The ma
 [Front melt v1](media/video/front-melt-v1.mp4) · [front melt v2](media/video/front-melt-v2.mp4) · [acid/front melt](media/video/acid-front-melt.mp4) · [macro melt](media/video/macro-melt.mp4) · [acid macro](media/video/acid-macro-melt.mp4)
 
 ## 03 / Camera distance and surface breakup
-
-![PB_cam6 transformation playblast — full sequence at natural speed](media/gif/transformation-cam6.gif)
 
 ![Transformation close view](media/gif/transformation-hq-cam17.gif)
 
@@ -107,8 +101,6 @@ The smoke capture puts the volume in front of the render controls. A separate sh
 The `SC090 / SH010` renders retain the red interior, broken dark shell and surrounding scene. They are intermediate evidence: darker and less isolated than the final lava views. The complete camera-2 batch has 96 frames; the alternate camera-1 batch stops at frame 16.
 
 [Camera 2 — complete available batch](media/video/lava-render-cam2.mp4) · [camera 1 — 16-frame fragment](media/video/lava-render-cam1-fragment.mp4)
-
-![Intermediate lava still](media/images/lava-intermediate-still.png)
 
 ## 06 / Final material and lighting
 
