@@ -128,3 +128,9 @@ The final treatment uses reflections to describe the gold’s edges, then revers
 - Original movies retain their source frame rates. New sequence reviews use 24 fps, inferred from adjacent playblasts; this is a review assumption, not recovered scene metadata.
 - GIFs are short, lower-resolution previews. Linked MP4s contain the complete selected clips.
 - The archive documents visible results and source naming. Solver settings, causal explanations and a strict production chronology are not inferred from filenames alone. No scene files were modified or included.
+
+---
+
+![Portfolio — fireborn cover](media/portfolio/fireborn-cover.png)
+
+![Portfolio — fireborn material and lava](media/portfolio/fireborn-material-and-lava.png)
