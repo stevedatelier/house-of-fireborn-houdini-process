@@ -14,8 +14,6 @@ The charcoal-pot test exposes the rigid-body breakup inside the container, with 
 <tr><td width="50%"><img src="media/images/charcoal-pot-surface-study.webp" width="100%" alt="Charcoal pot surface study — Screenshot 2024-09-24 232632"></td><td width="50%"><img src="media/images/charcoal-pot-render.webp" width="100%" alt="Charcoal pot render — Screenshot 2024-09-28 014609"></td></tr>
 </table>
 
-![Charcoal fragment study — Screenshot 2024-09-25 050755](media/images/charcoal-fragment-study.webp)
-
 The project follows metal through unstable states: branching gold, folded liquid, a fractured incandescent surface and a skull emerging from smoke. The visual problem is to keep those changes legible under narrow lighting, with most of the frame falling into black.
 
 ![Final lava result](media/gif/final-lava-front.gif)
