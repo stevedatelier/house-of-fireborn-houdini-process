@@ -1,0 +1,226 @@
+[
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/charcoal-fragment-study.png",
+    "new": "media/images/charcoal-fragment-study.webp",
+    "before": 256498,
+    "after": 134568,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/charcoal-pot-render.png",
+    "new": "media/images/charcoal-pot-render.webp",
+    "before": 304962,
+    "after": 151430,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/charcoal-pot-surface-study.png",
+    "new": "media/images/charcoal-pot-surface-study.webp",
+    "before": 352909,
+    "after": 183618,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/cone-material-study.png",
+    "new": "media/images/cone-material-study.webp",
+    "before": 881260,
+    "after": 486380,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/Crown_goldsmith_stills_00000522.webp",
+    "new": "media/images/Crown_goldsmith_stills_00000522.webp",
+    "before": 2214292,
+    "after": 2214292,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/final-charcoal-pot.webp",
+    "new": "media/images/final-charcoal-pot.webp",
+    "before": 14778,
+    "after": 14778,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/final-gold-branch-emergence.webp",
+    "new": "media/images/final-gold-branch-emergence.webp",
+    "before": 41944,
+    "after": 41944,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/final-gold-cone.webp",
+    "new": "media/images/final-gold-cone.webp",
+    "before": 151720,
+    "after": 151720,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/final-gold-crown-detail.webp",
+    "new": "media/images/final-gold-crown-detail.webp",
+    "before": 112634,
+    "after": 112634,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/final-gold-crown-silhouette.webp",
+    "new": "media/images/final-gold-crown-silhouette.webp",
+    "before": 57256,
+    "after": 57256,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/final-gold-skull.webp",
+    "new": "media/images/final-gold-skull.webp",
+    "before": 201932,
+    "after": 201932,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/final-gold-surface-detail.webp",
+    "new": "media/images/final-gold-surface-detail.webp",
+    "before": 318320,
+    "after": 318320,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/final-gold-surface.webp",
+    "new": "media/images/final-gold-surface.webp",
+    "before": 357764,
+    "after": 357764,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/final-hero-growing-liquid-gold.webp",
+    "new": "media/images/final-hero-growing-liquid-gold.webp",
+    "before": 22220,
+    "after": 22220,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/final-lava-front.webp",
+    "new": "media/images/final-lava-front.webp",
+    "before": 180620,
+    "after": 180620,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/final-lava-profile.webp",
+    "new": "media/images/final-lava-profile.webp",
+    "before": 170792,
+    "after": 170792,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/final-liquid-gold-shadow.webp",
+    "new": "media/images/final-liquid-gold-shadow.webp",
+    "before": 33978,
+    "after": 33978,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/final-liquid-gold.webp",
+    "new": "media/images/final-liquid-gold.webp",
+    "before": 60228,
+    "after": 60228,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/final-smoke-and-gold.webp",
+    "new": "media/images/final-smoke-and-gold.webp",
+    "before": 152810,
+    "after": 152810,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/houdini-liquid-surface.png",
+    "new": "media/images/houdini-liquid-surface.webp",
+    "before": 3884415,
+    "after": 2389974,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/houdini-smoke-render.png",
+    "new": "media/images/houdini-smoke-render.webp",
+    "before": 1861273,
+    "after": 1143082,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/houdini-transformation-2024-12-07.png",
+    "new": "media/images/houdini-transformation-2024-12-07.webp",
+    "before": 2506716,
+    "after": 1327814,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/infected-surface-study.png",
+    "new": "media/images/infected-surface-study.webp",
+    "before": 886422,
+    "after": 423372,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/reference-forging.jpg",
+    "new": "media/images/reference-forging.jpg",
+    "before": 75227,
+    "after": 75227,
+    "processing": "Original format retained: lossless WebP was larger; no quality loss introduced."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/reference-foundry-concept.jpg",
+    "new": "media/images/reference-foundry-concept.jpg",
+    "before": 124123,
+    "after": 124123,
+    "processing": "Original format retained: lossless WebP was larger; no quality loss introduced."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/images/reference-foundry-pour.jpg",
+    "new": "media/images/reference-foundry-pour.jpg",
+    "before": 87164,
+    "after": 87164,
+    "processing": "Original format retained: lossless WebP was larger; no quality loss introduced."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/portfolio/fireborn-cover.png",
+    "new": "media/portfolio/fireborn-cover.webp",
+    "before": 92849,
+    "after": 22410,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "house-of-fireborn-process",
+    "old": "media/portfolio/fireborn-material-and-lava.png",
+    "new": "media/portfolio/fireborn-material-and-lava.webp",
+    "before": 2157415,
+    "after": 1253922,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  }
+]

@@ -58,13 +58,13 @@ All media below is stored in this private repository. MP4 links open the file pa
 
 | Image | Source |
 |---|---|
-| [infected-surface-study](../media/images/infected-surface-study.png) | `infected_scene.png` |
-| [cone-material-study](../media/images/cone-material-study.png) | `Screenshot 2024-11-25 153854.png` |
-| [houdini-liquid-surface](../media/images/houdini-liquid-surface.png) | `Screenshot 2026-06-05 123443.png` |
-| [houdini-smoke-render](../media/images/houdini-smoke-render.png) | `Screenshot 2026-06-05 175642.png` |
+| [infected-surface-study](../media/images/infected-surface-study.webp) | `infected_scene.png` |
+| [cone-material-study](../media/images/cone-material-study.webp) | `Screenshot 2024-11-25 153854.png` |
+| [houdini-liquid-surface](../media/images/houdini-liquid-surface.webp) | `Screenshot 2026-06-05 123443.png` |
+| [houdini-smoke-render](../media/images/houdini-smoke-render.webp) | `Screenshot 2026-06-05 175642.png` |
 | [final-charcoal-pot](../media/images/final-charcoal-pot.webp) | `charcoal-pot.webp` |
 | [final-gold-branch-emergence](../media/images/final-gold-branch-emergence.webp) | `gold-branch-emergence.webp` |
-| [final-gold-branch](../media/images/final-gold-branch.webp) | `gold-branch.webp` |
+| [final-gold-branch](../media/images/Crown_goldsmith_stills_00000522.webp) | `gold-branch.webp` |
 | [final-gold-cone](../media/images/final-gold-cone.webp) | `gold-cone.webp` |
 | [final-gold-crown-detail](../media/images/final-gold-crown-detail.webp) | `gold-crown-detail.webp` |
 | [final-gold-crown-silhouette](../media/images/final-gold-crown-silhouette.webp) | `gold-crown-silhouette.webp` |
@@ -85,16 +85,18 @@ Exact source paths, processing details, full sequence order and checksums are re
 
 ## Additional Houdini captures and full-duration GIFs
 
-- [houdini-transformation-2024-12-07](../media/images/houdini-transformation-2024-12-07.png)
+- [houdini-transformation-2024-12-07](../media/images/houdini-transformation-2024-12-07.webp)
 - [acid-erosion-front â€” GIF](../media/gif/acid-erosion-front.gif)
 - [acid-front-melt â€” GIF](../media/gif/acid-front-melt.gif)
 - [front-melt-v2 â€” GIF](../media/gif/front-melt-v2.gif)
 - [viscous-mask â€” GIF](../media/gif/viscous-mask.gif)
 - [transformation-cam6 â€” GIF](../media/gif/transformation-cam6.gif)
 
-- [charcoal-pot-surface-study](../media/images/charcoal-pot-surface-study.png)
-- [charcoal-pot-render](../media/images/charcoal-pot-render.png)
-- [charcoal-fragment-study](../media/images/charcoal-fragment-study.png)
+- [charcoal-pot-surface-study](../media/images/charcoal-pot-surface-study.webp)
+- [charcoal-pot-render](../media/images/charcoal-pot-render.webp)
+- [charcoal-fragment-study](../media/images/charcoal-fragment-study.webp)
 - [goldsmith-closeup-flower-v03](../media/gif/goldsmith-closeup-flower-v03.gif)
 - [goldsmith-infection-mask-v06](../media/gif/goldsmith-infection-mask-v06.gif)
 - [sc050-sh010](../media/gif/sc050-sh010.gif)
+
+Image sizes and encoding decisions after optimization: [image optimization audit](image-optimization.json). Original source files are unchanged.

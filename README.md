@@ -11,10 +11,10 @@
 The charcoal-pot test exposes the rigid-body breakup inside the container, with irregular charcoal pieces and small particle activity visible before the final dark material treatment. This is the featured process study for Fireborn. The complete existing 93-frame AVI is preserved as a web video at 24 fps; its matching JPG sequence was not rebuilt.
 
 <table>
-<tr><td width="50%"><img src="media/images/charcoal-pot-surface-study.png" width="100%" alt="Charcoal pot surface study — Screenshot 2024-09-24 232632"></td><td width="50%"><img src="media/images/charcoal-pot-render.png" width="100%" alt="Charcoal pot render — Screenshot 2024-09-28 014609"></td></tr>
+<tr><td width="50%"><img src="media/images/charcoal-pot-surface-study.webp" width="100%" alt="Charcoal pot surface study — Screenshot 2024-09-24 232632"></td><td width="50%"><img src="media/images/charcoal-pot-render.webp" width="100%" alt="Charcoal pot render — Screenshot 2024-09-28 014609"></td></tr>
 </table>
 
-![Charcoal fragment study — Screenshot 2024-09-25 050755](media/images/charcoal-fragment-study.png)
+![Charcoal fragment study — Screenshot 2024-09-25 050755](media/images/charcoal-fragment-study.webp)
 
 The project follows metal through unstable states: branching gold, folded liquid, a fractured incandescent surface and a skull emerging from smoke. The visual problem is to keep those changes legible under narrow lighting, with most of the frame falling into black.
 
@@ -43,9 +43,9 @@ These are external inspiration images, separate from the project’s simulations
 
 ## 01 / Establishing the scene
 
-![Liquid, surface and smoke in Houdini](media/images/houdini-liquid-surface.png)
+![Liquid, surface and smoke in Houdini](media/images/houdini-liquid-surface.webp)
 
-![Houdini transformation geometry — Screenshot 2024-12-07 235036](media/images/houdini-transformation-2024-12-07.png)
+![Houdini transformation geometry — Screenshot 2024-12-07 235036](media/images/houdini-transformation-2024-12-07.webp)
 
 [Triangle test: viscosity 0–1](media/video/triangle-viscosity-0-1.mp4) · [viscosity 1](media/video/triangle-viscosity-1.mp4) · [viscosity 2](media/video/triangle-viscosity-2.mp4) · [finer test](media/video/triangle-viscosity-2-finer-test.mp4)
 
@@ -94,7 +94,7 @@ Five dust passes retain the underlying surface while changing the visible partic
 
 [v1](media/video/dust-particles-v1.mp4) · [v2](media/video/dust-particles-v2.mp4) · [v3](media/video/dust-particles-v3.mp4) · [v4](media/video/dust-particles-v4.mp4) · [v5](media/video/dust-particles-v5.mp4)
 
-![Smoke in the Houdini render view](media/images/houdini-smoke-render.png)
+![Smoke in the Houdini render view](media/images/houdini-smoke-render.webp)
 
 The smoke capture puts the volume in front of the render controls. A separate short gray-geometry test shows smoke at the head’s upper edge. It is a useful visibility check before the dense, dark final composition.
 
@@ -111,7 +111,7 @@ The `SC090 / SH010` renders retain the red interior, broken dark shell and surro
 ## 06 / Final material and lighting
 
 <table>
-<tr><td width="50%"><img src="media/images/final-gold-branch.webp" width="100%" alt="Final gold branch"></td><td width="50%"><img src="media/gif/final-liquid-gold.gif" width="100%" alt="Final liquid gold"></td></tr>
+<tr><td width="50%"><img src="media/images/Crown_goldsmith_stills_00000522.webp" width="100%" alt="Goldsmith flower still — frame 522"></td><td width="50%"><img src="media/gif/final-liquid-gold.gif" width="100%" alt="Final liquid gold"></td></tr>
 <tr><td width="50%"><img src="media/gif/final-lava-front.gif" width="100%" alt="Final lava"></td><td width="50%"><img src="media/images/final-gold-skull.webp" width="100%" alt="Gold skull and smoke"></td></tr>
 </table>
 
@@ -136,6 +136,6 @@ The final treatment uses reflections to describe the gold’s edges, then revers
 
 ---
 
-![Portfolio — fireborn cover](media/portfolio/fireborn-cover.png)
+![Portfolio — fireborn cover](media/portfolio/fireborn-cover.webp)
 
-![Portfolio — fireborn material and lava](media/portfolio/fireborn-material-and-lava.png)
+![Portfolio — fireborn material and lava](media/portfolio/fireborn-material-and-lava.webp)

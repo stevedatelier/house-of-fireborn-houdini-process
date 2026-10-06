@@ -7,10 +7,10 @@
       "name": "infected-surface-study",
       "kind": "image",
       "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\final_process_House-of_fireborn\\infected_scene.png",
-      "output": "media/images/infected-surface-study.png",
-      "processing": "copied unchanged",
+      "output": "media/images/infected-surface-study.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 886422,
-      "output_bytes": 886422,
+      "output_bytes": 423372,
       "sha256": "82ad153a146176ea07b85696a525b05f414deda6519d49fe3d4f74d84328c71f"
     },
     {
@@ -18,10 +18,10 @@
       "name": "cone-material-study",
       "kind": "image",
       "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\final_process_House-of_fireborn\\Screenshot 2024-11-25 153854.png",
-      "output": "media/images/cone-material-study.png",
-      "processing": "copied unchanged",
+      "output": "media/images/cone-material-study.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 881260,
-      "output_bytes": 881260,
+      "output_bytes": 486380,
       "sha256": "1d1caf4d8c25e3ad81e5db0bc7b5b521d2a29e0579fb52bcd93ff8ad64933d61"
     },
     {
@@ -29,10 +29,10 @@
       "name": "houdini-liquid-surface",
       "kind": "image",
       "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\final_process_House-of_fireborn\\Screenshot 2026-06-05 123443.png",
-      "output": "media/images/houdini-liquid-surface.png",
-      "processing": "copied unchanged",
+      "output": "media/images/houdini-liquid-surface.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 3884415,
-      "output_bytes": 3884415,
+      "output_bytes": 2389974,
       "sha256": "b334450205c3f1803f5b0cecff8097252bf5b1adc786a1f00a4cbe4d1977e126"
     },
     {
@@ -40,10 +40,10 @@
       "name": "houdini-smoke-render",
       "kind": "image",
       "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\final_process_House-of_fireborn\\Screenshot 2026-06-05 175642.png",
-      "output": "media/images/houdini-smoke-render.png",
-      "processing": "resized to maximum 2800px, source untouched",
+      "output": "media/images/houdini-smoke-render.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 2990982,
-      "output_bytes": 1861273,
+      "output_bytes": 1143082,
       "sha256": "917d698f3a17491ff057a1cbcaa9d894ad055e519bc42e9073191791d6db37cc"
     },
     {
@@ -70,13 +70,13 @@
     },
     {
       "repo": "fireborn",
-      "name": "final-gold-branch",
+      "name": "Crown_goldsmith_stills_00000522",
       "kind": "image",
-      "source": "D:\\Apps\\MaisonDatelier\\public\\images\\house-of-fireborn\\gold-branch.webp",
-      "output": "media/images/final-gold-branch.webp",
-      "processing": "copied unchanged",
-      "source_bytes": 53584,
-      "output_bytes": 53584,
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\Fouse_of_Firebrn\\Crown_goldsmith_stills_00000522.png",
+      "output": "media/images/Crown_goldsmith_stills_00000522.webp",
+      "processing": "Lossless WebP; full source dimensions; source unchanged.",
+      "source_bytes": 29059265,
+      "output_bytes": 2214292,
       "sha256": "d9f4d076abab491e26a26e453c0c20d4c5339c7298b57f9a10b47d519fe260a1"
     },
     {
@@ -4732,10 +4732,10 @@
       "name": "houdini-transformation-2024-12-07",
       "kind": "image",
       "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\houdini screenshots\\Screenshot 2024-12-07 235036.png",
-      "output": "media/images/houdini-transformation-2024-12-07.png",
+      "output": "media/images/houdini-transformation-2024-12-07.webp",
       "source_bytes": 2506716,
-      "output_bytes": 2506716,
-      "processing": "Copied unchanged"
+      "output_bytes": 1327814,
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
     },
     {
       "repo": "house-of-fireborn-process",
@@ -4802,30 +4802,30 @@
       "name": "charcoal-pot-surface-study",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\Screenshot 2024-09-24 232632.png",
-      "output": "media/images/charcoal-pot-surface-study.png",
+      "output": "media/images/charcoal-pot-surface-study.webp",
       "source_bytes": 352909,
-      "output_bytes": 352909,
-      "processing": "Copied unchanged"
+      "output_bytes": 183618,
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
     },
     {
       "repo": "fireborn",
       "name": "charcoal-pot-render",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\Screenshot 2024-09-28 014609.png",
-      "output": "media/images/charcoal-pot-render.png",
+      "output": "media/images/charcoal-pot-render.webp",
       "source_bytes": 304962,
-      "output_bytes": 304962,
-      "processing": "Copied unchanged"
+      "output_bytes": 151430,
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
     },
     {
       "repo": "fireborn",
       "name": "charcoal-fragment-study",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\Screenshot 2024-09-25 050755.png",
-      "output": "media/images/charcoal-fragment-study.png",
+      "output": "media/images/charcoal-fragment-study.webp",
       "source_bytes": 256498,
-      "output_bytes": 256498,
-      "processing": "Copied unchanged"
+      "output_bytes": 134568,
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
     },
     {
       "repo": "house-of-fireborn-process",
