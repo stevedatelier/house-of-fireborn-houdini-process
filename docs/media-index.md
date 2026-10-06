@@ -59,7 +59,6 @@ All media below is stored in this private repository. MP4 links open the file pa
 | Image | Source |
 |---|---|
 | [infected-surface-study](../media/images/infected-surface-study.png) | `infected_scene.png` |
-| [weathered-metal-disc](../media/images/weathered-metal-disc.png) | `Screenshot 2024-11-25 151615.png` |
 | [cone-material-study](../media/images/cone-material-study.png) | `Screenshot 2024-11-25 153854.png` |
 | [cone-viewport-flow](../media/images/cone-viewport-flow.png) | `Screenshot 2024-11-25 172537.png` |
 | [lava-intermediate-still](../media/images/lava-intermediate-still.png) | `Screenshot 2024-11-26 144433.png` |
@@ -82,6 +81,16 @@ All media below is stored in this private repository. MP4 links open the file pa
 | [final-smoke-and-gold](../media/images/final-smoke-and-gold.webp) | `smoke-and-gold.webp` |
 | [reference-foundry-pour](../media/images/reference-foundry-pour.jpg) | `1_dreamstime__Jatuporn79_23619537.63bc5a38b94ca.avif` |
 | [reference-forging](../media/images/reference-forging.jpg) | `7c4c3b2222d3bab97a16f58c42c5c9fb.jpg` |
-| [reference-foundry-concept](../media/images/reference-foundry-concept.jpg) | `brûler-du-métal-fondu-jaune-coulant-dans-une-grande-cuve-en-atelier-de-l-industrie-la-fonderie-créé-avec-ai-génératif-272049859.webp` |
+| [reference-foundry-concept](../media/images/reference-foundry-concept.jpg) | `brÃ»ler-du-mÃ©tal-fondu-jaune-coulant-dans-une-grande-cuve-en-atelier-de-l-industrie-la-fonderie-crÃ©Ã©-avec-ai-gÃ©nÃ©ratif-272049859.webp` |
 
 Exact source paths, processing details, full sequence order and checksums are recorded in [media-manifest.json](media-manifest.json).
+
+## Additional Houdini captures and full-duration GIFs
+
+- [houdini-transformation-2024-12-07](../media/images/houdini-transformation-2024-12-07.png)
+- [houdini-erosion-network-2026-04-18](../media/images/houdini-erosion-network-2026-04-18.png)
+- [acid-erosion-front — GIF](../media/gif/acid-erosion-front.gif)
+- [acid-front-melt — GIF](../media/gif/acid-front-melt.gif)
+- [front-melt-v2 — GIF](../media/gif/front-melt-v2.gif)
+- [viscous-mask — GIF](../media/gif/viscous-mask.gif)
+- [transformation-cam6 — GIF](../media/gif/transformation-cam6.gif)

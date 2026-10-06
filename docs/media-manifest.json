@@ -15,17 +15,6 @@
     },
     {
       "repo": "fireborn",
-      "name": "weathered-metal-disc",
-      "kind": "image",
-      "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\final_process_House-of_fireborn\\Screenshot 2024-11-25 151615.png",
-      "output": "media/images/weathered-metal-disc.png",
-      "processing": "copied unchanged",
-      "source_bytes": 878793,
-      "output_bytes": 878793,
-      "sha256": "983202a6893a68a72293bb829b7896b67d0a78951f6e1711fa1816f3c1a211af"
-    },
-    {
-      "repo": "fireborn",
       "name": "cone-material-study",
       "kind": "image",
       "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\final_process_House-of_fireborn\\Screenshot 2024-11-25 153854.png",
@@ -4759,6 +4748,86 @@
       "output_bytes": 3209182,
       "processing": "128-color palette, 640px looping excerpt of the review MP4",
       "sha256": "a45e397b143026083741ce7ea851311b2f06bae106ef307d69464e9ad8e1c30b"
+    },
+    {
+      "repo": "fireborn",
+      "name": "houdini-transformation-2024-12-07",
+      "kind": "image",
+      "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\houdini screenshots\\Screenshot 2024-12-07 235036.png",
+      "output": "media/images/houdini-transformation-2024-12-07.png",
+      "source_bytes": 2506716,
+      "output_bytes": 2506716,
+      "processing": "Copied unchanged"
+    },
+    {
+      "repo": "fireborn",
+      "name": "houdini-erosion-network-2026-04-18",
+      "kind": "image",
+      "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\houdini screenshots\\Screenshot 2026-04-18 184400.png",
+      "output": "media/images/houdini-erosion-network-2026-04-18.png",
+      "source_bytes": 6813946,
+      "output_bytes": 6813946,
+      "processing": "Copied unchanged"
+    },
+    {
+      "repo": "house-of-fireborn-process",
+      "name": "acid-erosion-front",
+      "kind": "gif-preview",
+      "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\final_process_House-of_fireborn\\Acid_erosion_FrontCam.mov",
+      "output": "media/gif/acid-erosion-front.gif",
+      "fps": 12,
+      "width": 640,
+      "duration_seconds": 10.0,
+      "output_bytes": 1636352,
+      "processing": "Full-duration 640px 128-color GIF converted from original MOV; 12 fps samples preserve original playback speed."
+    },
+    {
+      "repo": "house-of-fireborn-process",
+      "name": "acid-front-melt",
+      "kind": "gif-preview",
+      "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\final_process_House-of_fireborn\\Acid_front_Melt.mov",
+      "output": "media/gif/acid-front-melt.gif",
+      "fps": 12,
+      "width": 640,
+      "duration_seconds": 13.16,
+      "output_bytes": 3407389,
+      "processing": "Full-duration 640px 128-color GIF converted from original MOV; 12 fps samples preserve original playback speed."
+    },
+    {
+      "repo": "house-of-fireborn-process",
+      "name": "front-melt-v2",
+      "kind": "gif-preview",
+      "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\final_process_House-of_fireborn\\front_Melt_2.mov",
+      "output": "media/gif/front-melt-v2.gif",
+      "fps": 12,
+      "width": 640,
+      "duration_seconds": 5.75,
+      "output_bytes": 1645659,
+      "processing": "Full-duration 640px 128-color GIF converted from original MOV; 12 fps samples preserve original playback speed."
+    },
+    {
+      "repo": "house-of-fireborn-process",
+      "name": "viscous-mask",
+      "kind": "gif-preview",
+      "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\final_process_House-of_fireborn\\MetalMask_Viscuous.mov",
+      "output": "media/gif/viscous-mask.gif",
+      "fps": 12,
+      "width": 640,
+      "duration_seconds": 3.0,
+      "output_bytes": 927872,
+      "processing": "Full-duration 640px 128-color GIF converted from original MOV; 12 fps samples preserve original playback speed."
+    },
+    {
+      "repo": "house-of-fireborn-process",
+      "name": "transformation-cam6",
+      "kind": "gif-preview",
+      "source": "outputs\\house-of-fireborn-process\\media\\video\\transformation-cam6.mp4",
+      "output": "media/gif/transformation-cam6.gif",
+      "fps": 12,
+      "width": 640,
+      "duration_seconds": 3.5,
+      "output_bytes": 5657873,
+      "processing": "Full-duration 640px 128-color GIF; 12 fps samples preserve original playback speed. PB_cam6 uses the previously verified numeric frames 39\u2013121 at 24 fps."
     }
   ]
 }

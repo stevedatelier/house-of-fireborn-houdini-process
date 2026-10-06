@@ -6,6 +6,8 @@
 
 [![Pot with breaking RBD charcoal — watch the full playblast](media/gif/charcoal-particle-playblast.gif)](media/video/charcoal-particle-playblast.mp4)
 
+![Final lava result](media/gif/final-lava-front.gif)
+
 **[▶ Watch the pot and breaking RBD charcoal — full playblast](media/video/charcoal-particle-playblast.mp4)**
 
 The charcoal-pot test exposes the rigid-body breakup inside the container, with irregular charcoal pieces and small particle activity visible before the final dark material treatment. This is the featured process study for Fireborn. The complete existing 93-frame AVI is preserved as a web video at 24 fps; its matching JPG sequence was not rebuilt.
@@ -16,13 +18,16 @@ This archive starts with the exposed mechanics: gray geometry, blue diagnostic l
 
 ## Inspiration / molten metal and forging
 
-![Molten metal pour reference](media/images/reference-foundry-pour.jpg)
-
-*Molten metal against a dark foundry: a reference for the bright liquid core, heavy flow and restrained surroundings. Source: supplied file `1_dreamstime__Jatuporn79_23619537.63bc5a38b94ca.avif`; the filename credits Dreamstime / Jatuporn79, image 23619537. The original listing and photographer credit have not been independently verified.*
-
-![Forging reference: glowing metal under a hammer](media/images/reference-forging.jpg)
-
-*Forging photograph: the orange-hot interior, black scale and rough outer surface inform the contrast between Fireborn’s luminous material and dark crust. Source: supplied file `7c4c3b2222d3bab97a16f58c42c5c9fb.jpg`. Original photographer and publication are unresolved.*
+<table>
+<tr>
+<td width="50%"><img src="media/images/reference-foundry-pour.jpg" width="100%" alt="Molten metal pour reference"></td>
+<td width="50%"><img src="media/images/reference-forging.jpg" width="100%" alt="Forging reference: glowing metal under a hammer"></td>
+</tr>
+<tr>
+<td valign="top"><em>Molten metal against a dark foundry: a reference for the bright liquid core, heavy flow and restrained surroundings. Source: supplied file 1_dreamstime__Jatuporn79_23619537.63bc5a38b94ca.avif; the filename credits Dreamstime / Jatuporn79, image 23619537. The original listing and photographer credit have not been independently verified.</em></td>
+<td valign="top"><em>Forging photograph: the orange-hot interior, black scale and rough outer surface inform the contrast between Fireborn’s luminous material and dark crust. Source: supplied file 7c4c3b2222d3bab97a16f58c42c5c9fb.jpg. Original photographer and publication are unresolved.</em></td>
+</tr>
+</table>
 
 ![AI-generated foundry inspiration: glowing pour into a vessel](media/images/reference-foundry-concept.jpg)
 
@@ -34,10 +39,11 @@ These are external inspiration images, separate from the project’s simulations
 
 ![Liquid, surface and smoke in Houdini](media/images/houdini-liquid-surface.png)
 
-![Weathered metal disc study](media/images/weathered-metal-disc.png)
+![Houdini transformation geometry — Screenshot 2024-12-07 235036](media/images/houdini-transformation-2024-12-07.png)
+
 ![Cone and blue flow in the viewport](media/images/cone-viewport-flow.png)
 
-The disc and cone captures show how much of the form can be carried by a small highlight. The viewport view exposes the blue stream against the cone; the material study reduces the same kind of geometry to a narrow reflective edge.
+The viewport view exposes the blue stream against the cone.
 
 [Triangle test: viscosity 0–1](media/video/triangle-viscosity-0-1.mp4) · [viscosity 1](media/video/triangle-viscosity-1.mp4) · [viscosity 2](media/video/triangle-viscosity-2.mp4) · [finer test](media/video/triangle-viscosity-2-finer-test.mp4)
 
@@ -45,11 +51,20 @@ These names come from the source files. The clips show different droplet and tra
 
 ## 02 / Separating liquid from eroding geometry
 
+![Houdini erosion viewport and network — Screenshot 2026-04-18 184400](media/images/houdini-erosion-network-2026-04-18.png)
+
 ![Liquid and erosion diagnostic](media/gif/liquid-and-erosion.gif)
 
 Blue liquid over pale geometry makes the contact region readable. The companion erosion views remove that color separation and expose the changing skin. Front, top and back views matter because a plausible front silhouette can hide accumulation or loss of detail elsewhere.
 
 [Liquid + geometry](media/video/liquid-and-erosion.mp4) · [erosion front](media/video/acid-erosion-front.mp4) · [top](media/video/acid-erosion-top.mp4) · [side](media/video/erosion-side-view.mp4) · [back contact](media/video/liquid-erosion-back.mp4)
+
+<table>
+<tr><td width="50%"><img src="media/gif/acid-erosion-front.gif" width="100%" alt="Acid erosion — front camera"></td><td width="50%"><img src="media/gif/acid-front-melt.gif" width="100%" alt="Acid front melt"></td></tr>
+<tr><td>Acid_erosion_FrontCam.mov — GIF playback</td><td>Acid_front_Melt.mov — GIF playback</td></tr>
+<tr><td width="50%"><img src="media/gif/front-melt-v2.gif" width="100%" alt="Front melt — second version"></td><td width="50%"><img src="media/gif/viscous-mask.gif" width="100%" alt="MetalMask viscous test"></td></tr>
+<tr><td>front_Melt_2.mov — GIF playback</td><td>MetalMask_Viscuous.mov — GIF playback</td></tr>
+</table>
 
 ![Macro melt](media/gif/macro-melt.gif)
 
@@ -58,6 +73,8 @@ The melt tests shift from a readable face to folds and softened features. The ma
 [Front melt v1](media/video/front-melt-v1.mp4) · [front melt v2](media/video/front-melt-v2.mp4) · [acid/front melt](media/video/acid-front-melt.mp4) · [macro melt](media/video/macro-melt.mp4) · [acid macro](media/video/acid-macro-melt.mp4)
 
 ## 03 / Camera distance and surface breakup
+
+![PB_cam6 transformation playblast — full sequence at natural speed](media/gif/transformation-cam6.gif)
 
 ![Transformation close view](media/gif/transformation-hq-cam17.gif)
 
@@ -95,10 +112,10 @@ The `SC090 / SH010` renders retain the red interior, broken dark shell and surro
 
 ## 06 / Final material and lighting
 
-![Final gold branch](media/images/final-gold-branch.webp)
-![Final liquid gold](media/gif/final-liquid-gold.gif)
-![Final lava](media/gif/final-lava-front.gif)
-![Gold skull and smoke](media/images/final-gold-skull.webp)
+<table>
+<tr><td width="50%"><img src="media/images/final-gold-branch.webp" width="100%" alt="Final gold branch"></td><td width="50%"><img src="media/gif/final-liquid-gold.gif" width="100%" alt="Final liquid gold"></td></tr>
+<tr><td width="50%"><img src="media/gif/final-lava-front.gif" width="100%" alt="Final lava"></td><td width="50%"><img src="media/images/final-gold-skull.webp" width="100%" alt="Gold skull and smoke"></td></tr>
+</table>
 
 The final treatment uses reflections to describe the gold’s edges, then reverses that relationship in the lava: orange light comes from within a broken black crust. The geometry and diagnostic colors disappear into material, light and framing.
 
