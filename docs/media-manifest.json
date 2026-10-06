@@ -4891,6 +4891,36 @@
       "source_bytes": 34497707,
       "output_bytes": 4855702,
       "processing": "Lossless WebP; full source dimensions and pixels preserved; original source unchanged."
+    },
+    {
+      "repo": "fireborn",
+      "name": "resolve-edit-2026-08-04",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\Fouse_of_Firebrn\\Screenshot 2026-08-04 180208.png",
+      "output": "media/images/resolve-edit-2026-08-04.webp",
+      "source_bytes": 2142650,
+      "output_bytes": 944414,
+      "processing": "Lossless WebP; full source dimensions and pixels preserved; source unchanged."
+    },
+    {
+      "repo": "fireborn",
+      "name": "resolve-grade-2026-08-18",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\Fouse_of_Firebrn\\Screenshot 2026-08-18 063311.png",
+      "output": "media/images/resolve-grade-2026-08-18.webp",
+      "source_bytes": 1314314,
+      "output_bytes": 727232,
+      "processing": "Lossless WebP; full source dimensions and pixels preserved; source unchanged."
+    },
+    {
+      "repo": "fireborn",
+      "name": "resolve-look-2026-07-31",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\Fouse_of_Firebrn\\Screenshot 2026-07-31 195900.png",
+      "output": "media/images/resolve-look-2026-07-31.webp",
+      "source_bytes": 1078897,
+      "output_bytes": 570290,
+      "processing": "Lossless WebP; full source dimensions and pixels preserved; source unchanged."
     }
   ]
 }

@@ -104,3 +104,7 @@ Image sizes and encoding decisions after optimization: [image optimization audit
 - [Goldsmith still progression](../media/gif/goldsmith-still-progression.gif) — five selected stills (522, 553, 747, 810, 901), two seconds each; 1600px, 2.99 MiB.
 
 - [Goldsmith still — frame 1796](../media/images/Crown_goldsmith_stills_00001796.webp) — lossless WebP, 4.63 MiB.
+
+- [resolve-edit-2026-08-04](../media/images/resolve-edit-2026-08-04.webp)
+- [resolve-grade-2026-08-18](../media/images/resolve-grade-2026-08-18.webp)
+- [resolve-look-2026-07-31](../media/images/resolve-look-2026-07-31.webp)

@@ -128,6 +128,11 @@
 
 <sub>[Gold skull film](media/video/final-gold-skull.mp4) · [liquid gold](media/video/final-liquid-gold.mp4) · [lava front](media/video/final-lava-front.mp4) · [lava profile](media/video/final-lava-profile.mp4)</sub>
 
+<table>
+<tr><td width="50%"><img src="media/images/resolve-edit-2026-08-04.webp" width="100%" alt="DaVinci Resolve charcoal-pot edit"></td><td width="50%"><img src="media/images/resolve-grade-2026-08-18.webp" width="100%" alt="DaVinci Resolve skull color grade"></td></tr>
+<tr><td width="50%"><img src="media/images/resolve-look-2026-07-31.webp" width="100%" alt="DaVinci Resolve gold material look development"></td><td width="50%"></td></tr>
+</table>
+
 ## Archive notes
 
 - [All media, sizes and provenance](docs/media-index.md)
