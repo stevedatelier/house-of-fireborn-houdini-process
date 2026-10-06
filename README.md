@@ -10,7 +10,7 @@
 
 **[▶ Watch the pot and breaking RBD charcoal — full playblast](media/video/charcoal-particle-playblast.mp4)**
 
-<h6>The charcoal-pot test exposes the rigid-body breakup inside the container, with irregular charcoal pieces and small particle activity visible before the final dark material treatment. This is the featured process study for Fireborn. The complete existing 93-frame AVI is preserved as a web video at 24 fps; its matching JPG sequence was not rebuilt.</h6>
+The charcoal-pot test exposes the rigid-body breakup inside the container, with irregular charcoal pieces and small particle activity visible before the final dark material treatment. This is the featured process study for Fireborn. The complete existing 93-frame AVI is preserved as a web video at 24 fps; its matching JPG sequence was not rebuilt.
 
 <table>
 <tr><td width="50%"><img src="media/images/charcoal-pot-surface-study.webp" width="100%" alt="Charcoal pot surface study — Screenshot 2024-09-24 232632"></td><td width="50%"><img src="media/images/charcoal-pot-render.webp" width="100%" alt="Charcoal pot render — Screenshot 2024-09-28 014609"></td></tr>
@@ -18,7 +18,7 @@
 
 
 
-<h6>This archive starts with the exposed mechanics: gray geometry, blue diagnostic liquid, particles and intermediate renders. The finished images are the destination, not the whole story. Material comes from the supplied Fireborn process collection and its linked Houdini R&amp;D folders, historically stored under <code class="notranslate">REEL01_Metamask</code>. Those shared folder names are retained in the <a href="docs/media-manifest.json">source manifest</a>.</h6>
+This archive starts with the exposed mechanics: gray geometry, blue diagnostic liquid, particles and intermediate renders. The finished images are the destination, not the whole story. Material comes from the supplied Fireborn process collection and its linked Houdini R&amp;D folders, historically stored under `REEL01_Metamask`. Those shared folder names are retained in the <a href="docs/media-manifest.json">source manifest</a>.
 
 ## Inspiration / molten metal and forging
 
@@ -28,19 +28,20 @@
 <td width="50%"><img src="media/images/reference-forging.jpg" width="100%" alt="Forging reference: glowing metal under a hammer"></td>
 </tr>
 <tr>
-<td valign="top"><h6>Molten-metal pour: bright liquid against a dark foundry. Photograph: <a href="https://www.machinedesign.com/materials/article/21832007/cast-iron-and-wrought-iron-whats-the-difference" rel="nofollow">Jatuporn79 / Dreamstime, reproduced by Machine Design</a>.</h6></td>
-<td valign="top"><h6>Forging: orange-hot metal, black scale and a rough surface. Retrieved via <a href="https://i.pinimg.com/564x/7c/4c/3b/7c4c3b2222d3bab97a16f58c42c5c9fb.jpg" rel="nofollow">Pinterest</a>; original photographer and publication unverified.</h6></td>
+<td valign="top"><sub>Molten-metal pour: bright liquid against a dark foundry. Photograph: <a href="https://www.machinedesign.com/materials/article/21832007/cast-iron-and-wrought-iron-whats-the-difference" rel="nofollow">Jatuporn79 / Dreamstime, reproduced by Machine Design</a>.</sub></td>
+<td valign="top"><sub>Forging: orange-hot metal, black scale and a rough surface. Retrieved via <a href="https://i.pinimg.com/564x/7c/4c/3b/7c4c3b2222d3bab97a16f58c42c5c9fb.jpg" rel="nofollow">Pinterest</a>; original photographer and publication unverified.</sub></td>
 </tr>
 </table>
 
 ![AI-generated foundry inspiration: glowing pour into a vessel](media/images/reference-foundry-concept.jpg)
 
-<h6>Foundry concept: glowing metal poured into a heavy vessel. Source: <a href="https://thumbs.dreamstime.com/b/br%C3%BBler-du-m%C3%A9tal-fondu-jaune-coulant-dans-une-grande-cuve-en-atelier-de-l-industrie-la-fonderie-cr%C3%A9%C3%A9-avec-ai-g%C3%A9n%C3%A9ratif-272049859.jpg" rel="nofollow">Dreamstime</a>, image 272049859. AI-generated illustration; contributor unverified.<br>
-These are external inspiration images, separate from the project’s simulations and renders. <a href="docs/references.md">Reference sources and attribution status</a>.</h6>
+<sub>Foundry concept: glowing metal poured into a heavy vessel. Source: <a href="https://thumbs.dreamstime.com/b/br%C3%BBler-du-m%C3%A9tal-fondu-jaune-coulant-dans-une-grande-cuve-en-atelier-de-l-industrie-la-fonderie-cr%C3%A9%C3%A9-avec-ai-g%C3%A9n%C3%A9ratif-272049859.jpg" rel="nofollow">Dreamstime</a>, image 272049859. AI-generated illustration; contributor unverified.</sub>
+
+These are external inspiration images, separate from the project’s simulations and renders. <a href="docs/references.md">Reference sources and attribution status</a>.
 
 ## 01 / Establishing the scene
 
-<h6>The project follows metal through unstable states: branching gold, folded liquid, a fractured incandescent surface and a skull emerging from smoke. The visual problem is to keep those changes legible under narrow lighting, with most of the frame falling into black.</h6>
+The project follows metal through unstable states: branching gold, folded liquid, a fractured incandescent surface and a skull emerging from smoke. The visual problem is to keep those changes legible under narrow lighting, with most of the frame falling into black.
 
 ![Liquid, surface and smoke in Houdini](media/images/houdini-liquid-surface.webp)
 
@@ -48,8 +49,9 @@ These are external inspiration images, separate from the project’s simulations
 
 ![Goldsmith still progression](media/gif/goldsmith-still-progression.gif)
 
-<h6><a href="media/video/triangle-viscosity-0-1.mp4">Triangle test: viscosity 0–1</a> · <a href="media/video/triangle-viscosity-1.mp4">viscosity 1</a> · <a href="media/video/triangle-viscosity-2.mp4">viscosity 2</a> · <a href="media/video/triangle-viscosity-2-finer-test.mp4">finer test</a><br>
-These names come from the source files. The clips show different droplet and trailing shapes; they do not establish that one parameter alone caused every difference.</h6>
+<a href="media/video/triangle-viscosity-0-1.mp4">Triangle test: viscosity 0–1</a> · <a href="media/video/triangle-viscosity-1.mp4">viscosity 1</a> · <a href="media/video/triangle-viscosity-2.mp4">viscosity 2</a> · <a href="media/video/triangle-viscosity-2-finer-test.mp4">finer test</a>
+
+These names come from the source files. The clips show different droplet and trailing shapes; they do not establish that one parameter alone caused every difference.
 
 ## 02 / Separating liquid from eroding geometry
 
@@ -57,19 +59,20 @@ These names come from the source files. The clips show different droplet and tra
 
 ![Liquid and erosion diagnostic](media/gif/liquid-and-erosion.gif)
 
-<h6><a href="media/video/liquid-and-erosion.mp4">Liquid + geometry</a> · <a href="media/video/acid-erosion-front.mp4">erosion front</a> · <a href="media/video/acid-erosion-top.mp4">top</a> · <a href="media/video/erosion-side-view.mp4">side</a> · <a href="media/video/liquid-erosion-back.mp4">back contact</a></h6>
+<a href="media/video/liquid-and-erosion.mp4">Liquid + geometry</a> · <a href="media/video/acid-erosion-front.mp4">erosion front</a> · <a href="media/video/acid-erosion-top.mp4">top</a> · <a href="media/video/erosion-side-view.mp4">side</a> · <a href="media/video/liquid-erosion-back.mp4">back contact</a>
 
 <table>
 <tr><td width="50%"><img src="media/gif/acid-erosion-front.gif" width="100%" alt="Acid erosion — front camera"></td><td width="50%"><img src="media/gif/acid-front-melt.gif" width="100%" alt="Acid front melt"></td></tr>
-<tr><td><h6>Acid_erosion_FrontCam.mov — GIF playback</h6></td><td><h6>Acid_front_Melt.mov — GIF playback</h6></td></tr>
+<tr><td><sub>Acid_erosion_FrontCam.mov — GIF playback</sub></td><td><sub>Acid_front_Melt.mov — GIF playback</sub></td></tr>
 <tr><td width="50%"><img src="media/gif/front-melt-v2.gif" width="100%" alt="Front melt — second version"></td><td width="50%"><img src="media/gif/viscous-mask.gif" width="100%" alt="MetalMask viscous test"></td></tr>
-<tr><td><h6>front_Melt_2.mov — GIF playback</h6></td><td><h6>MetalMask_Viscuous.mov — GIF playback</h6></td></tr>
+<tr><td><sub>front_Melt_2.mov — GIF playback</sub></td><td><sub>MetalMask_Viscuous.mov — GIF playback</sub></td></tr>
 </table>
 
 ![Macro melt](media/gif/macro-melt.gif)
 
-<h6>The melt tests shift from a readable face to folds and softened features. The macro view makes the surface breakup visible; the frontal versions let the same problem be judged at portrait scale. These are retained as alternatives, not labeled as a proven sequence of fixes.<br>
-<a href="media/video/front-melt-v1.mp4">Front melt v1</a> · <a href="media/video/front-melt-v2.mp4">front melt v2</a> · <a href="media/video/acid-front-melt.mp4">acid/front melt</a> · <a href="media/video/macro-melt.mp4">macro melt</a> · <a href="media/video/acid-macro-melt.mp4">acid macro</a></h6>
+The melt tests shift from a readable face to folds and softened features. The macro view makes the surface breakup visible; the frontal versions let the same problem be judged at portrait scale. These are retained as alternatives, not labeled as a proven sequence of fixes.
+
+<a href="media/video/front-melt-v1.mp4">Front melt v1</a> · <a href="media/video/front-melt-v2.mp4">front melt v2</a> · <a href="media/video/acid-front-melt.mp4">acid/front melt</a> · <a href="media/video/macro-melt.mp4">macro melt</a> · <a href="media/video/acid-macro-melt.mp4">acid macro</a>
 
 ![Goldsmith skull and smoke — frame 1796](media/images/Crown_goldsmith_stills_00001796.webp)
 
@@ -77,29 +80,35 @@ These names come from the source files. The clips show different droplet and tra
 
 ![Transformation close view](media/gif/transformation-hq-cam17.gif)
 
-<h6>The two numbered playblast sequences inspect the changing surface at different distances. <code class="notranslate">PB_cam6</code> contains frames 39–121; <code class="notranslate">PB_HQ_cam17</code> contains 39–500, despite the latter files retaining a <code class="notranslate">PB_cam6_HQ</code> prefix. Both are preserved at their full available length.<br>
-<a href="media/video/transformation-cam6.mp4">Camera 6 review</a> · <a href="media/video/transformation-hq-cam17.mp4">HQ camera 17 review</a><br>
-The small <code class="notranslate">psp0025</code> and <code class="notranslate">psp0025_erosionscale07x10</code> batches are only 11 frames each. They are useful as short surface comparisons, not complete simulations.<br>
-<a href="media/video/erosion-psp0025.mp4">Base fragment</a> · <a href="media/video/erosion-scale-07x10.mp4">erosion-scale fragment</a></h6>
+The two numbered playblast sequences inspect the changing surface at different distances. `PB_cam6` contains frames 39–121; `PB_HQ_cam17` contains 39–500, despite the latter files retaining a `PB_cam6_HQ` prefix. Both are preserved at their full available length.
+
+<a href="media/video/transformation-cam6.mp4">Camera 6 review</a> · <a href="media/video/transformation-hq-cam17.mp4">HQ camera 17 review</a>
+
+The small `psp0025` and `psp0025_erosionscale07x10` batches are only 11 frames each. They are useful as short surface comparisons, not complete simulations.
+
+<a href="media/video/erosion-psp0025.mp4">Base fragment</a> · <a href="media/video/erosion-scale-07x10.mp4">erosion-scale fragment</a>
 
 ## 04 / Particles and smoke
 
 ![Particle pass v4](media/gif/dust-particles-v4.gif)
 
-<h6>Five dust passes retain the underlying surface while changing the visible particle trace. The red/orange points are easiest to inspect along the upper silhouette. Keeping all five short versions exposes the range of tests without filling the repository with hundreds of almost identical stills.<br>
-<a href="media/video/dust-particles-v1.mp4">v1</a> · <a href="media/video/dust-particles-v2.mp4">v2</a> · <a href="media/video/dust-particles-v3.mp4">v3</a> · <a href="media/video/dust-particles-v4.mp4">v4</a> · <a href="media/video/dust-particles-v5.mp4">v5</a></h6>
+Five dust passes retain the underlying surface while changing the visible particle trace. The red/orange points are easiest to inspect along the upper silhouette. Keeping all five short versions exposes the range of tests without filling the repository with hundreds of almost identical stills.
+
+<a href="media/video/dust-particles-v1.mp4">v1</a> · <a href="media/video/dust-particles-v2.mp4">v2</a> · <a href="media/video/dust-particles-v3.mp4">v3</a> · <a href="media/video/dust-particles-v4.mp4">v4</a> · <a href="media/video/dust-particles-v5.mp4">v5</a>
 
 ![Smoke in the Houdini render view](media/images/houdini-smoke-render.webp)
 
-<h6>The smoke capture puts the volume in front of the render controls. A separate short gray-geometry test shows smoke at the head’s upper edge. It is a useful visibility check before the dense, dark final composition.<br>
-<a href="media/video/acid-smoke-test.mp4">Smoke test</a></h6>
+The smoke capture puts the volume in front of the render controls. A separate short gray-geometry test shows smoke at the head’s upper edge. It is a useful visibility check before the dense, dark final composition.
+
+<a href="media/video/acid-smoke-test.mp4">Smoke test</a>
 
 ## 05 / Burning charcoal renders
 
 ![Intermediate lava camera 2](media/gif/lava-render-cam2.gif)
 
-<h6>The <code class="notranslate">SC090 / SH010</code> renders retain the red interior, broken dark shell and surrounding scene. They are intermediate evidence: darker and less isolated than the final lava views. The complete camera-2 batch has 96 frames; the alternate camera-1 batch stops at frame 16.<br>
-<a href="media/video/lava-render-cam2.mp4">Camera 2 — complete available batch</a> · <a href="media/video/lava-render-cam1-fragment.mp4">camera 1 — 16-frame fragment</a></h6>
+The `SC090 / SH010` renders retain the red interior, broken dark shell and surrounding scene. They are intermediate evidence: darker and less isolated than the final lava views. The complete camera-2 batch has 96 frames; the alternate camera-1 batch stops at frame 16.
+
+<a href="media/video/lava-render-cam2.mp4">Camera 2 — complete available batch</a> · <a href="media/video/lava-render-cam1-fragment.mp4">camera 1 — 16-frame fragment</a>
 
 ## 06 / Final material and lighting
 
@@ -110,13 +119,14 @@ The small <code class="notranslate">psp0025</code> and <code class="notranslate"
 
 <table>
 <tr><td width="50%"><img src="media/gif/goldsmith-closeup-flower-v03.gif" width="100%" alt="Crown Goldsmith Closeup Flower Clip V03"></td><td width="50%"><img src="media/gif/goldsmith-infection-mask-v06.gif" width="100%" alt="Crown Goldsmith Infectionk Mask Clip V06"></td></tr>
-<tr><td><h6>Goldsmith flower closeup — V03</h6></td><td><h6>Goldsmith mask — V06</h6></td></tr>
+<tr><td><sub>Goldsmith flower closeup — V03</sub></td><td><sub>Goldsmith mask — V06</sub></td></tr>
 </table>
 
 ![Sc050 Sh010 — material closeup](media/gif/sc050-sh010.gif)
 
-<h6>The final treatment uses reflections to describe the gold’s edges, then reverses that relationship in the lava: orange light comes from within a broken black crust. The geometry and diagnostic colors disappear into material, light and framing.<br>
-<a href="media/video/final-gold-skull.mp4">Gold skull film</a> · <a href="media/video/final-liquid-gold.mp4">liquid gold</a> · <a href="media/video/final-lava-front.mp4">lava front</a> · <a href="media/video/final-lava-profile.mp4">lava profile</a></h6>
+The final treatment uses reflections to describe the gold’s edges, then reverses that relationship in the lava: orange light comes from within a broken black crust. The geometry and diagnostic colors disappear into material, light and framing.
+
+<a href="media/video/final-gold-skull.mp4">Gold skull film</a> · <a href="media/video/final-liquid-gold.mp4">liquid gold</a> · <a href="media/video/final-lava-front.mp4">lava front</a> · <a href="media/video/final-lava-profile.mp4">lava profile</a>
 
 <table>
 <tr><td width="50%"><img src="media/images/resolve-edit-2026-08-04.webp" width="100%" alt="DaVinci Resolve charcoal-pot edit"></td><td width="50%"><img src="media/images/resolve-grade-2026-08-18.webp" width="100%" alt="DaVinci Resolve skull color grade"></td></tr>
