@@ -16,7 +16,15 @@ Checked 6 October 2026. Original files were inspected for embedded EXIF/XMP auth
 
 [Repository image](../media/images/reference-forging.jpg)
 
-## Foundry concept
+## Smelting photograph
+
+**Source: [The Gold Bullion Company — What is Smelting?](https://www.thegoldbullion.co.uk/what-is-smelting/).** The article displays [this image](https://www.thegoldbullion.co.uk/uploads/images/smelting-is-a-process-of-extracting-pure-metals.jpg), which matches the local file's Windows download URL. The source page does not name a photographer, and the local JPEG has no embedded creator credit. The Gold Bullion Company is credited as the publication, not as the photographer. Source verified 7 October 2026.
+
+[Repository image](../media/images/smelting-is-a-process-of-extracting-pure-metals.jpg)
+
+## Previous foundry concept
+
+This reference has been replaced by the smelting photograph in the case study.
 
 **Source platform: Dreamstime; contributor unverified.** Windows download metadata records [this Dreamstime-hosted image](https://thumbs.dreamstime.com/b/br%C3%BBler-du-m%C3%A9tal-fondu-jaune-coulant-dans-une-grande-cuve-en-atelier-de-l-industrie-la-fonderie-cr%C3%A9%C3%A9-avec-ai-g%C3%A9n%C3%A9ratif-272049859.jpg), asset 272049859. The image has a Dreamstime watermark. The source URL identifies it as AI-generated; it is not evidence of a photographed real pour. The listing and contributor could not be verified through accessible web results.
 

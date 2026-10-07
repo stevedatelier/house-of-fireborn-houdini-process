@@ -29,9 +29,9 @@ The charcoal breakup carries the opening. Weight comes first; the RBD timing nee
 </tr>
 </table>
 
-![AI-generated foundry inspiration: glowing pour into a vessel](media/images/reference-foundry-concept.jpg)
+![Smelting reference: molten metal pouring from a crucible](media/images/smelting-is-a-process-of-extracting-pure-metals.jpg)
 
-<sub>Source: <a href="https://thumbs.dreamstime.com/b/br%C3%BBler-du-m%C3%A9tal-fondu-jaune-coulant-dans-une-grande-cuve-en-atelier-de-l-industrie-la-fonderie-cr%C3%A9%C3%A9-avec-ai-g%C3%A9n%C3%A9ratif-272049859.jpg" rel="nofollow">Dreamstime</a>, image 272049859. AI-generated illustration; contributor unverified.</sub>
+<sub>Source: <a href="https://www.thegoldbullion.co.uk/what-is-smelting/" rel="nofollow">The Gold Bullion Company — What is Smelting?</a></sub>
 
 ## 01 / Fluid Simulation in Houdini
 
@@ -55,9 +55,9 @@ The metal needs to feel heavy and almost reluctant to move. Viscosity is the mai
 
 <table>
 <tr><td width="50%"><img src="media/gif/acid-erosion-front.gif" width="100%" alt="Acid erosion — front camera"></td><td width="50%"><img src="media/gif/acid-front-melt.gif" width="100%" alt="Acid front melt"></td></tr>
-<tr><td><sub>Acid_erosion_FrontCam.mov — GIF playback</sub></td><td><sub>Acid_front_Melt.mov — GIF playback</sub></td></tr>
+<tr><td><sub>Acid erosion</sub></td><td><sub>Acid front melt</sub></td></tr>
 <tr><td width="50%"><img src="media/gif/front-melt-v2.gif" width="100%" alt="Front melt — second version"></td><td width="50%"><img src="media/gif/viscous-mask.gif" width="100%" alt="MetalMask viscous test"></td></tr>
-<tr><td><sub>front_Melt_2.mov — GIF playback</sub></td><td><sub>MetalMask_Viscuous.mov — GIF playback</sub></td></tr>
+<tr><td><sub>Front melt</sub></td><td><sub>Viscous metal mask</sub></td></tr>
 </table>
 
 ![Macro melt](media/gif/macro-melt.gif)
@@ -114,7 +114,7 @@ The heat needs somewhere dark to sit. The charcoal look depends on that contrast
 
 <table>
 <tr><td width="50%"><img src="media/gif/goldsmith-closeup-flower-v03.gif" width="100%" alt="Crown Goldsmith Closeup Flower Clip V03"></td><td width="50%"><img src="media/gif/goldsmith-infection-mask-v06.gif" width="100%" alt="Crown Goldsmith Infectionk Mask Clip V06"></td></tr>
-<tr><td><sub>Goldsmith flower closeup — V03</sub></td><td><sub>Goldsmith mask — V06</sub></td></tr>
+<tr><td><sub>Goldsmith flower closeup</sub></td><td><sub>Goldsmith mask</sub></td></tr>
 </table>
 
 ![Sc050 Sh010 — material closeup](media/gif/sc050-sh010.gif)

@@ -58,6 +58,7 @@ All media below is stored in this repository. MP4 links open the file page; use 
 
 | Image | Source |
 |---|---|
+| [smelting-is-a-process-of-extracting-pure-metals](../media/images/smelting-is-a-process-of-extracting-pure-metals.jpg) | [The Gold Bullion Company — What is Smelting?](https://www.thegoldbullion.co.uk/what-is-smelting/) |
 | [skull-erosion-study-2024-08-20](../media/images/skull-erosion-study-2024-08-20.webp) | `Screenshot 2024-08-20 031259.png` |
 | [skull-erosion-study-2024-08-18](../media/images/skull-erosion-study-2024-08-18.webp) | `Screenshot 2024-08-18 041322.png` |
 | [infected-surface-study](../media/images/infected-surface-study.webp) | `infected_scene.png` |
