@@ -66,6 +66,11 @@ Erosion sets the pace of the reveal. The liquid and breakup passes need to agree
 
 <a href="media/video/front-melt-v1.mp4">Front melt v1</a> · <a href="media/video/front-melt-v2.mp4">front melt v2</a> · <a href="media/video/acid-front-melt.mp4">acid/front melt</a> · <a href="media/video/macro-melt.mp4">macro melt</a> · <a href="media/video/acid-macro-melt.mp4">acid macro</a>
 
+<table>
+<tr><td width="50%"><img src="media/images/skull-erosion-study-2024-08-20.webp" width="100%" alt="Skull erosion study — 20 August 2024"></td><td width="50%"><img src="media/images/skull-erosion-study-2024-08-18.webp" width="100%" alt="Skull erosion study — 18 August 2024"></td></tr>
+<tr><td><sub>Skull erosion study — 20 August 2024</sub></td><td><sub>Skull erosion study — 18 August 2024</sub></td></tr>
+</table>
+
 ![Goldsmith skull and smoke — frame 1796](media/images/Crown_goldsmith_stills_00001796.webp)
 
 ## 03 / Camera Tests

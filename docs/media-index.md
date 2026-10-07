@@ -58,6 +58,8 @@ All media below is stored in this repository. MP4 links open the file page; use 
 
 | Image | Source |
 |---|---|
+| [skull-erosion-study-2024-08-20](../media/images/skull-erosion-study-2024-08-20.webp) | `Screenshot 2024-08-20 031259.png` |
+| [skull-erosion-study-2024-08-18](../media/images/skull-erosion-study-2024-08-18.webp) | `Screenshot 2024-08-18 041322.png` |
 | [infected-surface-study](../media/images/infected-surface-study.webp) | `infected_scene.png` |
 | [cone-material-study](../media/images/cone-material-study.webp) | `Screenshot 2024-11-25 153854.png` |
 | [houdini-liquid-surface](../media/images/houdini-liquid-surface.webp) | `Screenshot 2026-06-05 123443.png` |

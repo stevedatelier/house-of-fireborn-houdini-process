@@ -4921,6 +4921,28 @@
       "source_bytes": 1078897,
       "output_bytes": 570290,
       "processing": "Lossless WebP; full source dimensions and pixels preserved; source unchanged."
+    },
+    {
+      "repo": "fireborn",
+      "name": "skull-erosion-study-2024-08-20",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\Fouse_of_Firebrn\\Screenshot 2024-08-20 031259.png",
+      "output": "media/images/skull-erosion-study-2024-08-20.webp",
+      "processing": "Lossless WebP; full source dimensions and decoded pixels preserved; source unchanged.",
+      "source_bytes": 954770,
+      "output_bytes": 488188,
+      "sha256": "7f39c983185c0847d668f24880f0e632e8f40785a79392d1937bbbcecd616c0c"
+    },
+    {
+      "repo": "fireborn",
+      "name": "skull-erosion-study-2024-08-18",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\Fouse_of_Firebrn\\Screenshot 2024-08-18 041322.png",
+      "output": "media/images/skull-erosion-study-2024-08-18.webp",
+      "processing": "Lossless WebP; full source dimensions and decoded pixels preserved; source unchanged.",
+      "source_bytes": 783449,
+      "output_bytes": 461900,
+      "sha256": "762328d3e6d1d48efaa9f4b3af121b28306a8f35f664726d17cf256401c1cba5"
     }
   ]
 }
