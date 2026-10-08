@@ -71,7 +71,7 @@ Erosion sets the pace of the reveal. The liquid and breakup passes need to agree
 <tr><td><sub>Skull erosion study — 20 August 2024</sub></td><td><sub>Skull erosion study — 18 August 2024</sub></td></tr>
 </table>
 
-![Goldsmith skull and smoke — frame 1796](media/images/Crown_goldsmith_stills_00001796.webp)
+![White skull study — 12 September 2021](media/images/skull-study-2021-09-12.webp)
 
 ## 03 / Camera Tests
 

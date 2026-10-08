@@ -4959,6 +4959,17 @@
       "source_bytes": 259175,
       "output_bytes": 259175,
       "sha256": "c9b73844a8f9428efb695c09a456bdc2a51427305cc66de7bfa7b94d840204ca"
+    },
+    {
+      "repo": "fireborn",
+      "name": "skull-study-2021-09-12",
+      "kind": "image",
+      "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\houdini screenshots\\Screenshot 2021-09-12 001355.png",
+      "output": "media/images/skull-study-2021-09-12.webp",
+      "processing": "Lossless WebP; full source dimensions and decoded pixels preserved; source unchanged.",
+      "source_bytes": 585126,
+      "output_bytes": 253832,
+      "sha256": "7313cf98629dfe7ff855faf5782be7cacc4a90145f3c0329bb821a80ad9d613e"
     }
   ]
 }
